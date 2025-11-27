@@ -1,6 +1,6 @@
 {
   "name": "HMIS ACP 002: Viral Load Request Form",
-  "version": "4.1.0",
+  "version": "4.1.4",
   "description": "Lab Request Form for VL Analysis/HIV DR Testing",
   "encounterType": "cbf01392-ca29-11e9-a32f-2a2ae2dbcce4",
   "encounter": "Lab Request Encounter",
@@ -543,12 +543,12 @@
               "validators": []
             },
             {
-              "label": "Order VL Test",
+              "label": "Order Test",
               "type": "testOrder",
               "id": "vlTestOrder",
               "required": "true",
               "questionOptions": {
-                "rendering": "select",
+                "rendering": "repeating",
                 "orderSettingUuid": "OUTPATIENT",
                 "orderType": "testorder",
                 "answers": [
@@ -556,6 +556,16 @@
                     "concept": "1eb05918-f50c-4cad-a827-3c78f296a10a",
                     "label": "VL",
                     "conceptMappings": []
+                  }
+                ],
+                "selectableOrders": [
+                  {
+                    "concept": "1eb05918-f50c-4cad-a827-3c78f296a10a",
+                    "label": "VL"
+                  },
+                  {
+                    "concept": "cbbc116a-a7e2-11ed-afa1-0242ac120002",
+                    "label": "HIV DRUG RESITANCE"
                   }
                 ]
               },
