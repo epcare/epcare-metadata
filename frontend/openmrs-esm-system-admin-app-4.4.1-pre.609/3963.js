@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_system_admin_app=globalThis.webpackChunk_openmrs_esm_system_admin_app||[]).push([["3963"],{6022(s){s.exports=JSON.parse('{"config":"Configurații","legacyAdmin":"Administrare veche","systemAdmin":"Administrare sistem"}')}}]);

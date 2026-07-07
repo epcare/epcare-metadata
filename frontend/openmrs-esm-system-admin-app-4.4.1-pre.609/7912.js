@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_system_admin_app=globalThis.webpackChunk_openmrs_esm_system_admin_app||[]).push([["7912"],{3099(s){s.exports=JSON.parse('{"config":"Configuraciones","legacyAdmin":"Panel de administraci\xf3n legado","systemAdmin":"Administraci\xf3n del Sistema"}')}}]);

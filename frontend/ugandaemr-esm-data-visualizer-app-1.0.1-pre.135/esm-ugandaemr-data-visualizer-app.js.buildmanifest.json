@@ -1,0 +1,378 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 9558913,
+      "sizes": {
+        "javascript": 9558913
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [
+        "106.js"
+      ],
+      "auxiliaryFiles": [
+        "106.js.map"
+      ],
+      "hash": "a11c71b7f9f76032",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 2239422,
+      "sizes": {
+        "consume-shared": 126,
+        "javascript": 2219103,
+        "share-init": 210,
+        "runtime": 19983
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "b123eebfde81eb13",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [
+        "294.js"
+      ],
+      "auxiliaryFiles": [
+        "294.js.map"
+      ],
+      "hash": "76c5c321c2b5963c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "880971614fb960c3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6082,
+      "sizes": {
+        "consume-shared": 84,
+        "javascript": 5998
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app"
+      ],
+      "files": [
+        "447.js"
+      ],
+      "auxiliaryFiles": [
+        "447.js.map"
+      ],
+      "hash": "ab61e042f9dd8d76",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7107,
+      "sizes": {
+        "javascript": 7107
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [
+        "484.js"
+      ],
+      "auxiliaryFiles": [
+        "484.js.map"
+      ],
+      "hash": "9125e3ca1725e8ca",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 175050,
+      "sizes": {
+        "javascript": 175008,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [
+        "494.js"
+      ],
+      "auxiliaryFiles": [
+        "494.js.map"
+      ],
+      "hash": "54f958b455a7f5c5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19848,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 210,
+        "runtime": 19596
+      },
+      "names": [
+        "@ugandaemr/esm-data-visualizer-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app"
+      ],
+      "files": [
+        "esm-ugandaemr-data-visualizer-app.js"
+      ],
+      "auxiliaryFiles": [
+        "esm-ugandaemr-data-visualizer-app.js.map"
+      ],
+      "hash": "fe8bb0dd50aa9a2e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 233557,
+      "sizes": {
+        "javascript": 233557
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [
+        "554.js"
+      ],
+      "auxiliaryFiles": [
+        "554.js.map"
+      ],
+      "hash": "2c3c92edf0b194ee",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2213105,
+      "sizes": {
+        "javascript": 2213105
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app"
+      ],
+      "files": [
+        "561.js"
+      ],
+      "auxiliaryFiles": [
+        "561.js.map"
+      ],
+      "hash": "94385f9ca86dc823",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 59,
+      "sizes": {
+        "javascript": 59
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "21fc3b7b295714b0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "14a1b812f74f3de5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 1797120,
+      "sizes": {
+        "javascript": 1797120
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [
+        "800.js"
+      ],
+      "auxiliaryFiles": [
+        "800.js.map"
+      ],
+      "hash": "55b8de6b4ae607bc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39290,
+      "sizes": {
+        "javascript": 39290
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [
+        "925.js"
+      ],
+      "auxiliaryFiles": [
+        "925.js.map"
+      ],
+      "hash": "5334b61c3bf32a5f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1075,
+      "sizes": {
+        "javascript": 1075
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-data-visualizer-app",
+        "main"
+      ],
+      "files": [
+        "938.js"
+      ],
+      "auxiliaryFiles": [
+        "938.js.map"
+      ],
+      "hash": "6a41a09b15c0c8c9",
+      "childrenByOrder": {}
+    }
+  ]
+}

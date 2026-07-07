@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_ugandaemr_esm_patient_queues_app=globalThis.webpackChunk_ugandaemr_esm_patient_queues_app||[]).push([[99],{3099(e){e.exports={}}}]);

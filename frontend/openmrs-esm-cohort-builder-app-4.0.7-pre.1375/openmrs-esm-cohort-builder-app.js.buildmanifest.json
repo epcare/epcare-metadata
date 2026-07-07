@@ -1,0 +1,331 @@
+{
+  "chunks": [
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 5050,
+      "sizes": {
+        "javascript": 5050
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app",
+        "main"
+      ],
+      "files": [
+        "117.js"
+      ],
+      "auxiliaryFiles": [
+        "117.js.map"
+      ],
+      "hash": "88a4d537687d9aab",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "330c20afd9795248",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app",
+        "main"
+      ],
+      "files": [
+        "237.js"
+      ],
+      "auxiliaryFiles": [
+        "237.js.map"
+      ],
+      "hash": "1ea4767d7ca941cf",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 270,
+      "sizes": {
+        "javascript": 270
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app",
+        "main"
+      ],
+      "files": [
+        "256.js"
+      ],
+      "auxiliaryFiles": [
+        "256.js.map"
+      ],
+      "hash": "213eeea0514feccd",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "dd05ec31cb70b940",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 478831,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 478789
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app"
+      ],
+      "files": [
+        "321.js"
+      ],
+      "auxiliaryFiles": [
+        "321.js.map"
+      ],
+      "hash": "882583b1e991f3b5",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 215572,
+      "sizes": {
+        "expose": 42,
+        "javascript": 215362,
+        "runtime": 11594,
+        "share-init": 168
+      },
+      "names": [
+        "@openmrs/esm-cohort-builder-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app"
+      ],
+      "files": [
+        "openmrs-esm-cohort-builder-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-cohort-builder-app.js.map"
+      ],
+      "hash": "7e8c64c1cf129df1",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3691702,
+      "sizes": {
+        "javascript": 3691702
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app",
+        "main"
+      ],
+      "files": [
+        "800.js"
+      ],
+      "auxiliaryFiles": [
+        "800.js.map"
+      ],
+      "hash": "f148bc1d6ebf9769",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 39414,
+      "sizes": {
+        "javascript": 39414
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app",
+        "main"
+      ],
+      "files": [
+        "820.js"
+      ],
+      "auxiliaryFiles": [
+        "820.js.map"
+      ],
+      "hash": "dd98fa677b06a608",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 4152905,
+      "sizes": {
+        "consume-shared": 168,
+        "javascript": 4152569,
+        "runtime": 10996,
+        "share-init": 168
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "394987ca42466207",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app",
+        "main"
+      ],
+      "files": [
+        "98.js"
+      ],
+      "auxiliaryFiles": [
+        "98.js.map"
+      ],
+      "hash": "3ec5014587e96e64",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 269770,
+      "sizes": {
+        "javascript": 269770
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app"
+      ],
+      "files": [
+        "989.js"
+      ],
+      "auxiliaryFiles": [
+        "989.js.map"
+      ],
+      "hash": "2bb276bb0286276d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3188690,
+      "sizes": {
+        "javascript": 3188690
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-cohort-builder-app",
+        "main"
+      ],
+      "files": [
+        "992.js"
+      ],
+      "auxiliaryFiles": [
+        "992.js.map"
+      ],
+      "hash": "e96d4d9f630e01f9",
+      "childrenByOrder": {}
+    }
+  ]
+}

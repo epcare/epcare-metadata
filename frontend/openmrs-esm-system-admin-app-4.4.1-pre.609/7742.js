@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_system_admin_app=globalThis.webpackChunk_openmrs_esm_system_admin_app||[]).push([["7742"],{5661(s){s.exports=JSON.parse('{"config":"配置","legacyAdmin":"旧版管理","systemAdmin":"系统管理"}')}}]);

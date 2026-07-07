@@ -1,0 +1,1218 @@
+{
+  "@epcare/esm-laboratory-management-app": {
+    "Display conditions": {
+      "privileges": [
+        "Manage Laboratory"
+      ]
+    },
+    "laboratoryQueueConcept": "1836ac8a-a855-4c7e-b2ba-a290233c67b7",
+    "laboratoryLocationTag": "Laboratory",
+    "laboratoryLocationTagUuid": "1e6acc3e-696d-47de-8f74-63ed7bbe6e81",
+    "laboratorySpecimenTypeConcept": "162476AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "laboratoryEncounterTypeUuid": "214e27a1-606a-4b1e-a96e-d736c87069d5",
+    "laboratoryOrderTypeUuid": "52a447d3-a64a-11e3-9aeb-50e549534c5e",
+    "laboratoryTestGroupConcept": "162384AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "laboratoryOtherReferenceLabConcept": "3476fd97-71da-4e9c-bf57-2b6318dc0c9f",
+    "laboratoryReferalDestinationUuid": "b1f8b6c8-c255-4518-89f5-4236ab76025b",
+    "enableSpecimenIdAutoGeneration": true,
+    "laboratoryBarcodeAlgorithm": "date_number_48bit",
+    "laboratoryBarcodePrintUri": "metsbcp://print/bc128/%BARCODE%|||%TYPE%|||%NAME%",
+    "laboratoryBarcodeGenerateAndPrint": true,
+    "laboratoryBarcodeIdGenIdentifierSource": "66bfa314-4881-11ef-9d0e-00155d78897e",
+    "laboratoryContainerTypeConcept": "bce2b1af-98b1-48a2-98a2-3e4ffb3c79c2",
+    "laboratoryVolumeMeasurementTypeConcept": "162402AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "laboratoryMainLocationTag": "Main Laboratory",
+    "laboratoryHealthCenterName": "",
+    "laboratoryPrintLogoUri": "",
+    "laboratoryPrintLogoText": "",
+    "laboratoryCloseAfterPrint": true,
+    "enableSendingLabTestsByEmail": false,
+    "laboratoryRequireSingleTestTypeForResultsImport": true,
+    "laboratoryReferralViewImplementation": "simple",
+    "artCardEncounterTypeUuid": "8d5b2be0-c2cc-11de-8d13-0010c6dffd0f"
+  },
+  "@ugandaemr/esm-data-visualizer-app": {
+    "Display conditions": {
+      "privileges": [
+        "Manage Data Visualizer"
+      ]
+    }
+  },
+  "@openmrs/esm-appointments-app": {
+    "Display conditions": {
+      "privileges": [
+        "Manage Appointments",
+        "Manage Appointment Services"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-chart-app": {
+    "Display conditions": {
+      "privileges": [
+        "View Patient Summary"
+      ]
+    },
+    "logo": {
+      "src": "/openmrs/spa/logo.svg",
+      "alt": "UgandaEMR+ logo"
+    },
+    "extensionSlots": {
+      "visit-header-right-slot": {
+        "remove": [
+          "start-visit-button"
+        ]
+      },
+      "patient-highlights-bar-slot": {
+        "remove": [
+          "patient-flag-tags"
+        ]
+      },
+      "patient-chart-summary-dashboard-slot": {
+        "add": [
+          "allergies-details-widget"
+        ]
+      },
+      "top-of-all-patient-dashboards-slot": {
+        "configure": {
+          "patient-flag": {
+            "Display conditions": {
+              "privileges": [
+                "o3: View Patient Flags"
+              ]
+            }
+          }
+        }
+      },
+      "patient-chart-dashboard-slot": {
+        "add": [
+          "nav-group#HIVCareAndTreatment",
+          "nav-group#HIVPrevenntionServices",
+          "nav-group#TB",
+          "nav-group#EID"
+        ],
+        "configure": {
+          "nav-group#HIVCareAndTreatment": {
+            "title": "HIV Care and Treatment",
+            "slotName": "hiv-care-and-treatment-nav-group-slot",
+            "order": 21
+          },
+          "nav-group#HIVPrevenntionServices": {
+            "title": "HIV Prevention Services",
+            "slotName": "hiv-prevention-services-nav-group-slot",
+            "order": 22
+          },
+          "nav-group#EID": {
+            "title": "EID Program",
+            "slotName": "eid-program-nav-group-slot",
+            "order": 23
+          },
+          "nav-group#TB": {
+            "title": "TB Program",
+            "slotName": "tb-program-nav-group-slot",
+            "order": 24
+          },
+          "charts-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Summary"
+              ]
+            }
+          },
+          "medications-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Medication"
+              ]
+            }
+          },
+          "laboratory-patient-chart-link": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Investigation"
+              ]
+            }
+          },
+          "results-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Vital"
+              ]
+            }
+          },
+          "programs-summary-dashboard": {
+            "layoutMode": "anchored",
+            "order": 2,
+            "hideDashboardTitle": false,
+            "meta": {
+              "fullWidth": true
+            },
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Program"
+              ]
+            }
+          },
+          "care-panel-patient-summary": {
+            "layoutMode": "anchored",
+            "order": 2,
+            "hideDashboardTitle": false,
+            "meta": {
+              "fullWidth": true
+            }
+          },
+          "test-results-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Test Summary"
+              ]
+            }
+          },
+          "immunization-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Immunization Summary"
+              ]
+            }
+          },
+          "appointments-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "configure": {
+              "Display conditions": {
+                "privileges": [
+                  "Manage Patient appointments"
+                ]
+              }
+            }
+          },
+          "patient-orders-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage patient orders"
+              ]
+            }
+          },
+          "allergies-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage allergies"
+              ]
+            }
+          },
+          "conditions-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage conditions"
+              ]
+            }
+          },
+          "attachments-results-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage patient attachments"
+              ]
+            }
+          },
+          "clincial-patient-link": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage clinical dashboard"
+              ]
+            }
+          },
+          "encounters-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage encounters"
+              ]
+            }
+          },
+          "billing-summary-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Billing"
+              ]
+            }
+          },
+          "clinical-views-divider": {
+            "Display conditions": {
+              "privileges": [
+                "View Clinical Views Divider"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "@openmrs/esm-styleguide": {
+    "Brand color #1": "#1a3054",
+    "Brand color #2": "#1a3054",
+    "Brand color #3": "#0078a6"
+  },
+  "@openmrs/esm-patient-biometrics-app": {
+    "Display conditions": {
+      "privileges": [
+        "Add Vitals and Biometrics"
+      ]
+    }
+  },
+  "@ugandaemr/esm-care-panel-app": {
+    "Display conditions": {
+      "privileges": [
+        "Manage Care Panel"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-appointments-app": {
+    "Display conditions": {
+      "privileges": [
+        "Manage Patient Appointment"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-immunizations-app": {
+    "Display conditions": {
+      "privileges": [
+        "Add Immunizations"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-allergies-app": {
+    "Display conditions": {
+      "privileges": [
+        "Add Allergies"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-attachments-app": {
+    "Display conditions": {
+      "privileges": [
+        "Add Attachments"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-conditions-app": {
+    "Display conditions": {
+      "privileges": [
+        "Manage conditions"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-forms-app": {
+    "Display conditions": {
+      "privileges": [
+        "Get Forms"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-medications-app": {
+    "maxDispenseDurationInDays": 366,
+    "Display conditions": {
+      "privileges": [
+        "Add Orders",
+        "View OrderTemplates"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-programs-app": {
+    "Display conditions": {
+      "privileges": [
+        "Add Patient Programs"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-test-results-app": {
+    "concepts": [],
+    "Display conditions": {
+      "privileges": [
+        "View Test Results"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-notes-app": {
+    "Display conditions": {
+      "privileges": [
+        "Manage Patient Notes"
+      ]
+    }
+  },
+  "@openmrs/esm-patient-tests-app": {
+    "orderTypeUuid": "52a447d3-a64a-11e3-9aeb-50e549534c5e",
+    "resultsViewerConcepts": [
+      {
+        "conceptUuid": "1eb05918-f50c-4cad-a827-3c78f296a10a",
+        "defaultOpen": true
+      },
+      {
+        "conceptUuid": "dc824b7b-30ab-102d-86b0-7a5022ba4115",
+        "defaultOpen": true
+      },
+      {
+        "conceptUuid": "dc926649-30ab-102d-86b0-7a5022ba4115",
+        "defaultOpen": true
+      },
+      {
+        "conceptUuid": "a9a5af0f-cb4e-4657-8ec0-a21772a02345"
+      }
+    ],
+    "orders": {
+      "labOrderTypeUuid": "52a447d3-a64a-11e3-9aeb-50e549534c5e",
+      "labOrderableConcepts": [
+        "dca07f4a-30ab-102d-86b0-7a5022ba4115"
+      ]
+    },
+    "Display conditions": {
+      "privileges": [
+        "View Test Results"
+      ]
+    }
+  },
+  "@openmrs/esm-offline-tools-app": {
+    "Display conditions": {
+      "privileges": [
+        "Access Offline Tools"
+      ]
+    }
+  },
+  "@ugandaemr/esm-patient-registration-app": {
+    "defaultPatientIdentifierTypes": [
+      "f0c16a6d-dc5f-4118-a803-616d0075d282",
+      "be8f222a-3751-4f93-8c74-3aff399c19b6"
+    ],
+    "logo": {
+      "src": "/openmrs/spa/logo-white.svg",
+      "alt": "UgandaEMR+ logo"
+    },
+    "sections": [
+      "demographics",
+      "contact",
+      "relationships",
+      "nextOfKin"
+    ],
+    "sectionDefinitions": [
+      {
+        "id": "nextOfKin",
+        "name": "Next of Kin Details",
+        "fields": [
+          "nextOfKinName",
+          "nextOfkinPhone"
+        ]
+      }
+    ],
+    "fieldDefinitions": [
+      {
+        "id": "phone",
+        "type": "person attribute",
+        "uuid": "14d4f066-15f5-102d-96e4-000c29c2a5d7",
+        "label": "Phone Number",
+        "validation": {
+          "matches": "^0([0-9](?:(?:[0-9][0-9])|(?:0[0-8])|(4[0-1]))[0-9]{6})$"
+        }
+      },
+      {
+        "id": "nextOfKinName",
+        "type": "person attribute",
+        "uuid": "e493f4ec-51f1-4a77-8d3c-5791f8cb02cd",
+        "label": "Name"
+      },
+      {
+        "id": "nextOfkinPhone",
+        "type": "person attribute",
+        "uuid": "553834ef-b3fe-4c79-826a-6d4b6978bcff",
+        "label": "Phone Number",
+        "validation": {
+          "matches": "^0([0-9](?:(?:[0-9][0-9])|(?:0[0-8])|(4[0-1]))[0-9]{6})$"
+        }
+      }
+    ],
+    "links": {
+      "submitButton": "/openmrs/spa/home/patient-queues"
+    },
+    "fieldConfigurations": {
+      "dateOfBirth": {
+        "useEstimatedDateOfBirth": {
+          "enabled": true,
+          "dayOfMonth": 15,
+          "month": 5
+        }
+      },
+      "gender": [
+        {
+          "id": "male",
+          "value": "Male",
+          "label": "Male"
+        },
+        {
+          "id": "female",
+          "value": "Female",
+          "label": "Female"
+        }
+      ],
+      "address": {
+        "useAddressHierarchy": {
+          "useAddressHierarchyLabel": {
+            "countyDistrict": "County",
+            "address4": "Ward",
+            "stateProvince": "Sub county"
+          },
+          "searchAddressByLevel": true
+        }
+      },
+      "causeOfDeath": {
+        "conceptUuid": "dca2c3f2-30ab-102d-86b0-7a5022ba4115"
+      }
+    },
+    "registrationObs": {
+      "encounterTypeUuid": "1458b726-4a62-4444-be97-bb3e08c73745"
+    },
+    "causeOfDeath": {
+      "conceptUuid": "dca2c3f2-30ab-102d-86b0-7a5022ba4115"
+    }
+  },
+  "@openmrs/esm-home-app": {
+    "extensionSlots": {
+      "homepage-dashboard-slot": {
+        "configure": {
+          "clinical-appointments-dashboard": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Appointments Link"
+              ]
+            }
+          },
+          "patient-queues-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Queues"
+              ]
+            }
+          },
+          "queue-reception-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "View Reception Menu"
+              ]
+            }
+          },
+          "queue-triage-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "View Triage Menu"
+              ]
+            }
+          },
+          "queue-clinical-room-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "View Clinical Room Menu"
+              ]
+            }
+          },
+          "dispensing-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "View Dispensing Menu"
+              ]
+            }
+          },
+          "patient-lists-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Lists"
+              ]
+            }
+          },
+          "service-queues-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Service Queues"
+              ]
+            }
+          },
+          "clinical-appointments-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Appointments Link"
+              ]
+            }
+          },
+          "bed-admission-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Inpatient"
+              ]
+            }
+          },
+          "data-visualizer-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Data Visualizer"
+              ]
+            }
+          },
+          "laboratory-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Laboratory"
+              ]
+            }
+          },
+          "home-widget-db-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Home Link"
+              ]
+            }
+          },
+          "imaging-orders-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Radiology"
+              ]
+            }
+          },
+          "procedure-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Procedures"
+              ]
+            }
+          },
+          "billing-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Billing"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "@ugandaemr/esm-login-app": {
+    "logo": {
+      "src": "/openmrs/spa/logo.svg",
+      "alt": "UgandaEMR+ logo"
+    },
+    "loginBackground": {
+      "src": "/openmrs/spa/background.png",
+      "alt": "UgandaEMR+ logo"
+    },
+    "loginBanner": {
+      "src": "/openmrs/spa/banner.svg",
+      "alt": "UgandaEMR+ logo"
+    },
+    "showCenteredLogin": true,
+    "supportEmail": "info@epcare.org",
+    "footerOpenMRSLogo": "omrs-logo-white",
+    "showDefaultHome": true
+  },
+  "@openmrs/esm-primary-navigation-app": {
+    "extensionSlots": {
+      "top-nav-actions-slot": {
+        "configure": {
+          "patient-search-icon": {
+            "Display conditions": {
+              "privileges": [
+                "Search Patient"
+              ]
+            }
+          },
+          "add-patient-action": {
+            "Display conditions": {
+              "privileges": [
+                "Add Patient Button"
+              ]
+            }
+          }
+        }
+      },
+      "notifications-menu-button-slot": {
+        "Display conditions": {
+          "privileges": [
+            "View Notification Menu"
+          ]
+        }
+      },
+      "top-nav-app-menu-slot": {
+        "remove": [
+          "app-menu-button"
+        ],
+        "Display conditions": {
+          "privileges": [
+            "View Menu App"
+          ]
+        }
+      },
+      "patient-chart-dashboard-slot": {
+        "configure": {
+          "charts-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Summary"
+              ]
+            }
+          },
+          "medications-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Medication"
+              ]
+            }
+          },
+          "laboratory-patient-chart-link": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Investigation"
+              ]
+            }
+          },
+          "results-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Vital"
+              ]
+            }
+          },
+          "programs-summary-dashboard": {
+            "layoutMode": "anchored",
+            "order": 2,
+            "hideDashboardTitle": false,
+            "meta": {
+              "fullWidth": true
+            },
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Program"
+              ]
+            }
+          },
+          "care-panel-patient-summary": {
+            "layoutMode": "anchored",
+            "order": 2,
+            "hideDashboardTitle": false,
+            "meta": {
+              "fullWidth": true
+            }
+          },
+          "test-results-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Test Summary"
+              ]
+            }
+          },
+          "immunization-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage Immunization Summary"
+              ]
+            }
+          },
+          "appointments-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "configure": {
+              "Display conditions": {
+                "privileges": [
+                  "Manage Patient appointments"
+                ]
+              }
+            }
+          },
+          "patient-orders-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage patient orders"
+              ]
+            }
+          },
+          "allergies-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage allergies"
+              ]
+            }
+          },
+          "conditions-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage conditions"
+              ]
+            }
+          },
+          "attachments-results-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage patient attachments"
+              ]
+            }
+          },
+          "clincial-patient-link": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage clinical dashboard"
+              ]
+            }
+          },
+          "encounters-summary-dashboard": {
+            "layoutMode": "anchored",
+            "hideDashboardTitle": false,
+            "Display conditions": {
+              "privileges": [
+                "Manage encounters"
+              ]
+            }
+          },
+          "billing-summary-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Billing"
+              ]
+            }
+          },
+          "clinical-views-divider": {
+            "Display conditions": {
+              "privileges": [
+                "View Clinical Views Divider"
+              ]
+            }
+          },
+          "hiv-care-and-treatment": {
+            "Display conditions": {
+              "privileges": [
+                "Manage HIV Care and Treatment"
+              ]
+            }
+          },
+          "hiv-prevention-services": {
+            "Display conditions": {
+              "privileges": [
+                "Manage HIV Prevention Services"
+              ]
+            }
+          },
+          "eid-program": {
+            "Display conditions": {
+              "privileges": [
+                "Manage EID Program"
+              ]
+            }
+          },
+          "tb-program": {
+            "Display conditions": {
+              "privileges": [
+                "Manage TB Program"
+              ]
+            }
+          }
+        }
+      },
+      "hiv-care-and-treatment-nav-group-slot": {
+        "add": [
+          "dashboard#PatientSummary",
+          "dashboard#PatientTreatment",
+          "dashboard#PatientGeneralCounselling"
+        ],
+        "configure": {
+          "dashboard#PatientSummary": {
+            "title": "Patient Summary",
+            "path": "patient-summary",
+            "layoutMode": "anchored",
+            "slot": "patient-summary-summary-slot"
+          },
+          "dashboard#PatientTreatment": {
+            "title": "Treatment",
+            "path": "treatment",
+            "layoutMode": "anchored",
+            "slot": "patient-treatment-dashboard-slot"
+          },
+          "dashboard#PatientGeneralCounselling": {
+            "title": "General Counselling",
+            "path": "general-counselling",
+            "layoutMode": "anchored",
+            "slot": "patient-general-counselling-dashboard-slot"
+          }
+        }
+      },
+      "hiv-prevention-services-nav-group-slot": {
+        "add": [
+          "dashboard#PatientHTS",
+          "dashboard#PatientSMC"
+        ],
+        "configure": {
+          "dashboard#PatientHTS": {
+            "title": "HTS",
+            "path": "hts",
+            "layoutMode": "anchored",
+            "slot": "patient-hts-dashboard-slot"
+          },
+          "dashboard#PatientSMC": {
+            "title": "SMC",
+            "path": "smc",
+            "layoutMode": "anchored",
+            "slot": "patient-smc-dashboard-slot"
+          }
+        }
+      },
+      "eid-program-nav-group-slot": {
+        "add": [
+          "dashboard#PatientEID"
+        ],
+        "configure": {
+          "dashboard#PatientEID": {
+            "title": "EID",
+            "path": "eid",
+            "layoutMode": "anchored",
+            "slot": "patient-eid-program-dashboard-slot"
+          }
+        }
+      },
+      "tb-program-nav-group-slot": {
+        "add": [
+          "dashboard#PatientTBSummary",
+          "dashboard#PatientDSTB",
+          "dashboard#PatientDRTB"
+        ],
+        "configure": {
+          "dashboard#PatientTBSummary": {
+            "title": "Patient Summary",
+            "path": "tb-patient-summary",
+            "layoutMode": "anchored",
+            "slot": "tb-summary-dashboard-slot"
+          },
+          "dashboard#PatientDSTB": {
+            "title": "DS TB",
+            "path": "ds-tb",
+            "layoutMode": "anchored",
+            "slot": "patient-ds-tb-dashboard-slot"
+          },
+          "dashboard#PatientDRTB": {
+            "title": "DR TB",
+            "path": "dr-tb",
+            "layoutMode": "anchored",
+            "slot": "patient-dr-tb-dashboard-slot"
+          }
+        }
+      }
+    },
+    "logo": {
+      "src": "/openmrs/spa/logo-white.svg",
+      "alt": "UgandaEMR+ logo",
+      "link": "${openmrsSpaBase}/home"
+    }
+  },
+  "@openmrs/esm-patient-banner-app": {
+    "extensionSlots": {
+      "patient-actions-slot": {
+        "configure": {
+          "start-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Start Visit Button"
+              ]
+            }
+          },
+          "stop-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Stop Visit Button"
+              ]
+            }
+          },
+          "cancel-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Cancel Visit Button"
+              ]
+            }
+          },
+          "mark-patient-deceased-button": {
+            "Display conditions": {
+              "privileges": [
+                "Mark Dead Button"
+              ]
+            }
+          },
+          "edit-patient-details-button": {
+            "Display conditions": {
+              "privileges": [
+                "Edit Patient Details Button"
+              ]
+            }
+          },
+          "add-patient-to-patient-list-button": {
+            "Display conditions": {
+              "privileges": [
+                "Add Patient To List Button"
+              ]
+            }
+          },
+          "patient-move-to-next-service-point": {
+            "Display conditions": {
+              "privileges": [
+                "Next Service Point"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "@openmrs/esm-patient-vitals-app": {
+    "vitals": {
+      "useMuacColors": true,
+      "showPrintButton": true,
+      "useFormEngine": false
+    },
+    "concepts": {
+      "vitalSignsConceptSetUuid": "dc98127e-30ab-102d-86b0-7a5022ba4115"
+    }
+  },
+  "@openmrs/esm-patient-orders-app": {
+    "orderEncounterType": "dbe038cd-cad5-439d-a761-a6d6d680219c"
+  },
+  "@openmrs/esm-dispensing-app": {
+    "locationBehavior": {
+      "locationColumn": {
+        "enabled": true
+      },
+      "locationFilter": {
+        "enabled": true,
+        "tag": "Login Location"
+      }
+    },
+    "appName": "Dispensing",
+    "valueSets": {
+      "substitutionReason": {
+        "uuid": "2de6e1be-f2dd-4ba0-9516-8a611aa2af9b"
+      },
+      "substitutionType": {
+        "uuid": "b9c5bca0-d026-4245-a4d2-e4c0a8999082"
+      },
+      "reasonForClose": {
+        "uuid": "2462a9d7-61fb-4bf5-9359-aedecb8d03cb"
+      },
+      "reasonForPause": {
+        "uuid": "2462a9d7-61fb-4bf5-9359-aedecb8d03cb"
+      }
+    },
+    "dispenseBehavior": {
+      "restrictTotalQuantityDispensed": true,
+      "allowModifyingPrescription": false
+    },
+    "enableStockDispense": true,
+    "validateBatch": true,
+    "medicationRequestExpirationPeriodInDays": 1
+  },
+  "@openmrs/esm-patient-search-app": {
+    "extensionSlots": {
+      "patient-actions-slot": {
+        "configure": {
+          "start-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Start Visit Button"
+              ]
+            }
+          },
+          "stop-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Stop Visit Button"
+              ]
+            }
+          },
+          "cancel-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Cancel Visit Button"
+              ]
+            }
+          },
+          "mark-patient-deceased-button": {
+            "Display conditions": {
+              "privileges": [
+                "Mark Dead Button"
+              ]
+            }
+          },
+          "edit-patient-details-button": {
+            "Display conditions": {
+              "privileges": [
+                "Edit Patient Details Button"
+              ]
+            }
+          },
+          "add-patient-to-patient-list-button": {
+            "Display conditions": {
+              "privileges": [
+                "Add Patient To List Button"
+              ]
+            }
+          },
+          "patient-move-to-next-service-point": {
+            "Display conditions": {
+              "privileges": [
+                "Next Service Point"
+              ]
+            }
+          }
+        }
+      },
+      "start-visit-button-slot2": {
+        "remove": [
+          "patient-search-start-visit-button"
+        ]
+      }
+    }
+  },
+  "@epcare/esm-billing-app": {
+    "serviceTypes": "609afe4f-d539-4dfe-896d-0b9897d0ee4a",
+    "defaultCurrency": "UGX",
+    "showEditBillButton": true
+  },
+  "@epcare/esm-procedure-orders-app": {
+    "procedureOrderTypeUuid": "b4a7c280-369e-4d12-9ce8-18e36783fed6",
+    "procedureConceptSetUuid": "83bdfa6a-0c51-428a-a08d-3922db216858",
+    "testOrderTypeUuid": "52a447d3-a64a-11e3-9aeb-50e549534c5e",
+    "conditionConceptClassUuid": "8d4918b0-c2cc-11de-8d13-0010c6dffd0f",
+    "procedureComplicationGroupingConceptUuid": "120202AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "procedureComplicationConceptUuid": "120198AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "procedureResultEncounterType": "a4870f6d-ea06-4bbe-b775-bcbfb0816dbf",
+    "procedureResultEncounterRole": "a0b03050-c99b-11e0-9572-0800200c9a66",
+    "useOrderEncounter": true,
+    "procedureStatusConcepts": {
+      "PREPARATION": "167153AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "IN_PROGRESS": "163723AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "NOT_DONE": "dc9825cf-30ab-102d-86b0-7a5022ba4115",
+      "ON_HOLD": "167154AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "STOPPED": "dca26b47-30ab-102d-86b0-7a5022ba4115",
+      "COMPLETED": "dca06bae-30ab-102d-86b0-7a5022ba4115",
+      "ENTERED_IN_ERROR": "162983AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    "procedureOutcomeConcepts": {
+      "SUCCESSFUL": "eed11f33-313c-4fbd-b95b-d78e950f96c9",
+      "NOT_SUCCESSFUL": "dcda6cd2-30ab-102d-86b0-7a5022ba4115",
+      "PARTIALLY_SUCCESSFUL": "163723AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    "procedureConceptUuid": "83bdfa6a-0c51-428a-a08d-3922db216858",
+    "procedureConceptSourceType": "Concept set",
+    "bodySiteConceptUuid": "dc9fab29-30ab-102d-86b0-7a5022ba4115",
+    "bodySiteConceptSourceType": "Concept set",
+    "statusConceptUuid": "163021AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "statusConceptSourceType": "Concept set",
+    "durationUnitConceptUuid": "1732AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "durationUnitConceptSourceType": "Concept set"
+  },
+  "@epcare/esm-imaging-orders-app": {
+    "radiologyConceptSetUuid": "4557f916-4f42-410a-96ad-39c59ad82553",
+    "radiologyConceptClassUuid": "8caa332c-efe4-4025-8b18-3398328e1323",
+    "radiologyOrderTypeUuid": "b4a7c280-369e-4d12-9ce8-18e36783fed6",
+    "imagingOrderableConcepts": [],
+    "conditionConceptClassUuid": "8d4918b0-c2cc-11de-8d13-0010c6dffd0f",
+    "procedureComplicationGroupingConceptUuid": "120202AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "procedureComplicationConceptUuid": "120198AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "procedureResultEncounterType": "a4870f6d-ea06-4bbe-b775-bcbfb0816dbf",
+    "procedureResultEncounterRole": "a0b03050-c99b-11e0-9572-0800200c9a66",
+    "useOrderEncounter": true,
+    "procedureStatusConcepts": {
+      "PREPARATION": "167153AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "IN_PROGRESS": "163723AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "NOT_DONE": "dc9825cf-30ab-102d-86b0-7a5022ba4115",
+      "ON_HOLD": "167154AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "STOPPED": "dca26b47-30ab-102d-86b0-7a5022ba4115",
+      "COMPLETED": "dca06bae-30ab-102d-86b0-7a5022ba4115",
+      "ENTERED_IN_ERROR": "162983AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    "procedureOutcomeConcepts": {
+      "SUCCESSFUL": "eed11f33-313c-4fbd-b95b-d78e950f96c9",
+      "NOT_SUCCESSFUL": "dcda6cd2-30ab-102d-86b0-7a5022ba4115",
+      "PARTIALLY_SUCCESSFUL": "163723AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    "procedureConceptUuid": "4557f916-4f42-410a-96ad-39c59ad82553",
+    "procedureConceptSourceType": "Concept set",
+    "bodySiteConceptUuid": "dc9fab29-30ab-102d-86b0-7a5022ba4115",
+    "bodySiteConceptSourceType": "Concept set",
+    "statusConceptUuid": "163021AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "statusConceptSourceType": "Concept set",
+    "durationUnitConceptUuid": "1732AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "durationUnitConceptSourceType": "Concept set",
+    "imagingModalityConceptUuid": "4557f916-4f42-410a-96ad-39c59ad82553",
+    "contrastAgentConceptUuid": "0028c9c3-2bc2-4d75-9cbc-9d06f6951c2e",
+    "accessionNumberConceptUuid": "0e163f39-bebd-455d-a9c2-5cec790461b8",
+    "dicomStudyUidConceptUuid": "d55e0ae3-abad-4dee-a5de-6fd1db010453",
+    "radiationDoseConceptUuid": "458bd4f7-9292-40db-8a9e-334faff7827c",
+    "clinicalIndicationConceptUuid": "f36f1463-90cc-4aa3-bffa-91ef24b31f21",
+    "imagingFindingsConceptUuid": "7f39af1b-8d9d-43c1-ad2e-8fd848a0093a",
+    "imagingImpressionConceptUuid": "159395AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "imagingImagesConceptUuid": "7cac8397-53cd-4f00-a6fe-028e8d743f8e"
+  },
+  "@ugandaemr/esm-patient-queues-app": {
+    "showExtraVisitAttributesSlot": true
+  },
+  "core": {
+    "Translation overrides": {
+      "en": {
+        "state": "County",
+        "address3": "Sub County",
+        "address4": "Parish",
+        "address5": "Village"
+      }
+    }
+  },
+  "@openmrs/esm-stock-management-app": {
+    "packingUnitsUUID": "bce2b1af-98b1-48a2-98a2-3e4ffb3c79c2",
+    "stockItemCategoryUUID": "6d24eb6e-b42f-4706-ab2d-ae4472161f6a",
+    "stockSourceTypeUUID": "2e1e8049-9cbe-4a2d-b1e5-8a91e5d7d97d",
+    "stockAdjustmentReasonUUID": "3bbfaa44-d5b8-404d-b4c1-2bf49ad8ce25",
+    "stockTakeReasonUUID": "3bbfaa44-d5b8-404d-b4c1-2bf49ad8ce25"
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "chunks": [
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "df73041ca0254ae1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3214872,
+      "sizes": {
+        "javascript": 3214872
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app"
+      ],
+      "files": [
+        "75.js"
+      ],
+      "auxiliaryFiles": [
+        "75.js.map"
+      ],
+      "hash": "9d8946aa55fa1879",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "861752477afb0fa0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 21539,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 210,
+        "runtime": 21287
+      },
+      "names": [
+        "@ugandaemr/esm-ugandaemr-exchange-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app"
+      ],
+      "files": [
+        "esm-ugandaemr-exchange-app.js"
+      ],
+      "auxiliaryFiles": [
+        "esm-ugandaemr-exchange-app.js.map"
+      ],
+      "hash": "1d330fdba804208f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2380,
+      "sizes": {
+        "javascript": 2380
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "123.js"
+      ],
+      "auxiliaryFiles": [
+        "123.js.map"
+      ],
+      "hash": "2f4c0fb2017108a3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 163792,
+      "sizes": {
+        "javascript": 163792
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "184.js"
+      ],
+      "auxiliaryFiles": [
+        "184.js.map"
+      ],
+      "hash": "9bc1ab485e08197b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2402,
+      "sizes": {
+        "javascript": 2402
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "276.js"
+      ],
+      "auxiliaryFiles": [
+        "276.js.map"
+      ],
+      "hash": "cf64154e8bbc5252",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 271211,
+      "sizes": {
+        "javascript": 271211
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "282.js"
+      ],
+      "auxiliaryFiles": [
+        "282.js.map"
+      ],
+      "hash": "1a493450d8a214dd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1669,
+      "sizes": {
+        "javascript": 1669
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "300.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "054b9eed8c793667",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "98a8021fc7d81e96",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 40147,
+      "sizes": {
+        "javascript": 40147
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "414.js"
+      ],
+      "auxiliaryFiles": [
+        "414.js.map"
+      ],
+      "hash": "5c0490f03627a140",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "540.js"
+      ],
+      "auxiliaryFiles": [
+        "540.js.map"
+      ],
+      "hash": "a095fb7652148e3c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2539,
+      "sizes": {
+        "javascript": 2539
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "566.js"
+      ],
+      "auxiliaryFiles": [
+        "566.js.map"
+      ],
+      "hash": "80a032981c03b7e4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 10078105,
+      "sizes": {
+        "javascript": 10078105
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "610.js"
+      ],
+      "auxiliaryFiles": [
+        "610.js.map"
+      ],
+      "hash": "9463cb96bc6574e3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 262770,
+      "sizes": {
+        "javascript": 262770
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "661.js"
+      ],
+      "auxiliaryFiles": [
+        "661.js.map"
+      ],
+      "hash": "9ba11553238f44df",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12424,
+      "sizes": {
+        "javascript": 12424
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "678.js"
+      ],
+      "auxiliaryFiles": [
+        "678.js.map"
+      ],
+      "hash": "a9e4089896e1e8d6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 5357178,
+      "sizes": {
+        "javascript": 5357178
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "699.js"
+      ],
+      "auxiliaryFiles": [
+        "699.js.map"
+      ],
+      "hash": "1bcce49b3c95a76f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 14919,
+      "sizes": {
+        "javascript": 14919
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "705.js"
+      ],
+      "auxiliaryFiles": [
+        "705.js.map"
+      ],
+      "hash": "04f4cf7c4609c173",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 307932,
+      "sizes": {
+        "javascript": 307932
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "763.js"
+      ],
+      "auxiliaryFiles": [
+        "763.js.map"
+      ],
+      "hash": "077bfb8f19587332",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 29015,
+      "sizes": {
+        "javascript": 29015
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "789.js"
+      ],
+      "auxiliaryFiles": [
+        "789.js.map"
+      ],
+      "hash": "437769f6ba99631c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 4131387,
+      "sizes": {
+        "consume-shared": 210,
+        "javascript": 4109254,
+        "share-init": 210,
+        "runtime": 21713
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "eae31a900aeb50db",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 189774,
+      "sizes": {
+        "javascript": 189774
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "831.js"
+      ],
+      "auxiliaryFiles": [
+        "831.js.map"
+      ],
+      "hash": "edde66c6cc995cf4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 37233,
+      "sizes": {
+        "javascript": 37233
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "953.js"
+      ],
+      "auxiliaryFiles": [
+        "953.js.map"
+      ],
+      "hash": "fe6a9e6a95a4b61f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 567159,
+      "sizes": {
+        "javascript": 567075,
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app"
+      ],
+      "files": [
+        "957.js"
+      ],
+      "auxiliaryFiles": [
+        "957.js.map"
+      ],
+      "hash": "d0cdf0c33bdadc38",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2396,
+      "sizes": {
+        "javascript": 2396
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "959.js"
+      ],
+      "auxiliaryFiles": [
+        "959.js.map"
+      ],
+      "hash": "19f3228c67b8e170",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-ugandaemr-exchange-app",
+        "main"
+      ],
+      "files": [
+        "961.js"
+      ],
+      "auxiliaryFiles": [
+        "961.js.map"
+      ],
+      "hash": "6f0b29210552ee46",
+      "childrenByOrder": {}
+    }
+  ]
+}

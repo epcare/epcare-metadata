@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_epcare_esm_laboratory_management_app=globalThis.webpackChunk_epcare_esm_laboratory_management_app||[]).push([[55],{94055:a=>{a.exports=JSON.parse('{"loading":"Chargement"}')}}]);

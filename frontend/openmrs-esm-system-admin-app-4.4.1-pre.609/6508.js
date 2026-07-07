@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_system_admin_app=globalThis.webpackChunk_openmrs_esm_system_admin_app||[]).push([["6508"],{4055(s){s.exports=JSON.parse('{"config":"Configurations","legacyAdmin":"Administration du module Legacy","systemAdmin":"Administration du syst\xe8me"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_ward_app=globalThis.webpackChunk_openmrs_esm_ward_app||[]).push([["8493"],{7260(e,a,r){r.r(a),r.d(a,{default:()=>n});var s=r(7125),p=r.n(s),t=r(5532);let n=function(e){var a=e.closeWorkspace,r=e.groupProps.wardPatient;return p().createElement(t.A,{closeWorkspace:a,wardPatient:r})}}}]);

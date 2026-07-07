@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_epcare_esm_billing_app=globalThis.webpackChunk_epcare_esm_billing_app||[]).push([["517"],{4225(e,a,l){l.r(a),l.d(a,{default:()=>n,immutable:()=>t});var i=l(2177),r=l(4993);let t=e=>(a,l,i)=>(i.revalidateOnFocus=!1,i.revalidateIfStale=!1,i.revalidateOnReconnect=!1,i.refreshInterval=0,e(a,l,i)),n=(0,r.withMiddleware)(i.Ay,t)}}]);

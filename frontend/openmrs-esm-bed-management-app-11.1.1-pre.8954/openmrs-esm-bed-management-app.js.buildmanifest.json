@@ -1,0 +1,1860 @@
+{
+  "chunks": [
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2201,
+      "sizes": {
+        "javascript": 2201
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "1339.js"
+      ],
+      "auxiliaryFiles": [
+        "1339.js.map"
+      ],
+      "hash": "d2b87fcfcb927ee1",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 6441,
+      "sizes": {
+        "javascript": 6441
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "1480.js"
+      ],
+      "auxiliaryFiles": [
+        "1480.js.map"
+      ],
+      "hash": "b2dc895acb62dd92",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "1646.js"
+      ],
+      "auxiliaryFiles": [
+        "1646.js.map"
+      ],
+      "hash": "ca4f901155b2bfcc",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 26267,
+      "sizes": {
+        "javascript": 26267
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "1744.js"
+      ],
+      "auxiliaryFiles": [
+        "1744.js.map"
+      ],
+      "hash": "1855188794d00fbe",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 29620,
+      "sizes": {
+        "javascript": 29620
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "1789.js"
+      ],
+      "auxiliaryFiles": [
+        "1789.js.map"
+      ],
+      "hash": "c1b865ff3b48ed13",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "1869.js"
+      ],
+      "auxiliaryFiles": [
+        "1869.js.map"
+      ],
+      "hash": "be4db4dccb8db1e0",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4113,
+      "sizes": {
+        "javascript": 4113
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "1877.js"
+      ],
+      "auxiliaryFiles": [
+        "1877.js.map"
+      ],
+      "hash": "640bdc346aaaa728",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 222080,
+      "sizes": {
+        "consume-shared": 126,
+        "javascript": 221618,
+        "runtime": 14827,
+        "share-init": 336
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "ef7383d3900785e2",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 11863,
+      "sizes": {
+        "javascript": 11863
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "1893.js"
+      ],
+      "auxiliaryFiles": [
+        "1893.js.map"
+      ],
+      "hash": "8adfe53723b154d4",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3670687,
+      "sizes": {
+        "javascript": 3670687
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "2257.js"
+      ],
+      "auxiliaryFiles": [
+        "2257.js.map"
+      ],
+      "hash": "684ab371cb7f4ef5",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3967,
+      "sizes": {
+        "javascript": 3967
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "2317.js"
+      ],
+      "auxiliaryFiles": [
+        "2317.js.map"
+      ],
+      "hash": "3f262283c78c10de",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "2416.js"
+      ],
+      "auxiliaryFiles": [
+        "2416.js.map"
+      ],
+      "hash": "1af91ced5de21625",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "282.js"
+      ],
+      "auxiliaryFiles": [
+        "282.js.map"
+      ],
+      "hash": "5b0d386590fd8513",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "2881.js"
+      ],
+      "auxiliaryFiles": [
+        "2881.js.map"
+      ],
+      "hash": "685e3f36172b2f18",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 8415,
+      "sizes": {
+        "javascript": 8415
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "3081.js"
+      ],
+      "auxiliaryFiles": [
+        "3081.js.map"
+      ],
+      "hash": "71056677e7a55aae",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 355863,
+      "sizes": {
+        "javascript": 355863
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "3090.js"
+      ],
+      "auxiliaryFiles": [
+        "3090.js.map"
+      ],
+      "hash": "04f940b5242b0609",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 1929,
+      "sizes": {
+        "javascript": 1929
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "3302.js"
+      ],
+      "auxiliaryFiles": [
+        "3302.js.map"
+      ],
+      "hash": "45579e171f6c3616",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 215742,
+      "sizes": {
+        "expose": 42,
+        "javascript": 215364,
+        "runtime": 15380,
+        "share-init": 336
+      },
+      "names": [
+        "@openmrs/esm-bed-management-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app"
+      ],
+      "files": [
+        "openmrs-esm-bed-management-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-bed-management-app.js.map"
+      ],
+      "hash": "fdfff0067f2aeb50",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "3378.js"
+      ],
+      "auxiliaryFiles": [
+        "3378.js.map"
+      ],
+      "hash": "5e3e7b2acd7b7c8e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 134091,
+      "sizes": {
+        "javascript": 134091
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "3636.js"
+      ],
+      "auxiliaryFiles": [
+        "3636.js.map"
+      ],
+      "hash": "6930636cfbef66ae",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2201,
+      "sizes": {
+        "javascript": 2201
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "3720.js"
+      ],
+      "auxiliaryFiles": [
+        "3720.js.map"
+      ],
+      "hash": "5301a52a99d5ab7e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2803078,
+      "sizes": {
+        "javascript": 2803078
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "377.js"
+      ],
+      "auxiliaryFiles": [
+        "377.js.map"
+      ],
+      "hash": "159677567dc5d253",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4042,
+      "sizes": {
+        "javascript": 4042
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "3963.js"
+      ],
+      "auxiliaryFiles": [
+        "3963.js.map"
+      ],
+      "hash": "dc2c9ddb4b9f6f26",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 25608,
+      "sizes": {
+        "javascript": 25608
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "3989.js"
+      ],
+      "auxiliaryFiles": [
+        "3989.js.map"
+      ],
+      "hash": "2956e402023b10ba",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "4106.js"
+      ],
+      "auxiliaryFiles": [
+        "4106.js.map"
+      ],
+      "hash": "e691a824d365966b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4274,
+      "sizes": {
+        "javascript": 4274
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "4111.js"
+      ],
+      "auxiliaryFiles": [
+        "4111.js.map"
+      ],
+      "hash": "c5da261f8301df08",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "434.js"
+      ],
+      "auxiliaryFiles": [
+        "434.js.map"
+      ],
+      "hash": "20fbbfe362f0dfe7",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "4348.js"
+      ],
+      "auxiliaryFiles": [
+        "4348.js.map"
+      ],
+      "hash": "8ec5a01fc9acc7f5",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "4383.js"
+      ],
+      "auxiliaryFiles": [
+        "4383.js.map"
+      ],
+      "hash": "e57162f46b8b1b3d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "4658.js"
+      ],
+      "auxiliaryFiles": [
+        "4658.js.map"
+      ],
+      "hash": "8b30521744dfc1b8",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "466.js"
+      ],
+      "auxiliaryFiles": [
+        "466.js.map"
+      ],
+      "hash": "e0a98528d4b76b11",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "4928.js"
+      ],
+      "auxiliaryFiles": [
+        "4928.js.map"
+      ],
+      "hash": "f376d599d4edb7fb",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "5117.js"
+      ],
+      "auxiliaryFiles": [
+        "5117.js.map"
+      ],
+      "hash": "10afad203ae694a2",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 6568,
+      "sizes": {
+        "javascript": 6568
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "5120.js"
+      ],
+      "auxiliaryFiles": [
+        "5120.js.map"
+      ],
+      "hash": "2039735197dce4a9",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3819,
+      "sizes": {
+        "javascript": 3819
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "5132.js"
+      ],
+      "auxiliaryFiles": [
+        "5132.js.map"
+      ],
+      "hash": "e0d57ea257a97102",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4120,
+      "sizes": {
+        "javascript": 4120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "5145.js"
+      ],
+      "auxiliaryFiles": [
+        "5145.js.map"
+      ],
+      "hash": "3d177b142f10989c",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 6338,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 6296
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app"
+      ],
+      "files": [
+        "5175.js"
+      ],
+      "auxiliaryFiles": [
+        "5175.js.map"
+      ],
+      "hash": "597503e1a8bf1220",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "5503.js"
+      ],
+      "auxiliaryFiles": [
+        "5503.js.map"
+      ],
+      "hash": "80fbd7e3aeb2bee0",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "556.js"
+      ],
+      "auxiliaryFiles": [
+        "556.js.map"
+      ],
+      "hash": "07976888f014fdd6",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3626,
+      "sizes": {
+        "javascript": 3626
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "5644.js"
+      ],
+      "auxiliaryFiles": [
+        "5644.js.map"
+      ],
+      "hash": "ce27bf33ca1cf7f4",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7160,
+      "sizes": {
+        "javascript": 7160
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "5697.js"
+      ],
+      "auxiliaryFiles": [
+        "5697.js.map"
+      ],
+      "hash": "057391bb2ff99532",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "5940.js"
+      ],
+      "auxiliaryFiles": [
+        "5940.js.map"
+      ],
+      "hash": "3d6abfdd17360f89",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4069,
+      "sizes": {
+        "javascript": 4069
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6047.js"
+      ],
+      "auxiliaryFiles": [
+        "6047.js.map"
+      ],
+      "hash": "ec1bcd807518036e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "d7a1193bd1c1935a",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 11751,
+      "sizes": {
+        "javascript": 11751
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6168.js"
+      ],
+      "auxiliaryFiles": [
+        "6168.js.map"
+      ],
+      "hash": "d9f36be815a18830",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 25015,
+      "sizes": {
+        "javascript": 25015
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6220.js"
+      ],
+      "auxiliaryFiles": [
+        "6220.js.map"
+      ],
+      "hash": "014d8de4315509aa",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3711,
+      "sizes": {
+        "javascript": 3711
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6371.js"
+      ],
+      "auxiliaryFiles": [
+        "6371.js.map"
+      ],
+      "hash": "169bda70e9fea87a",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6377.js"
+      ],
+      "auxiliaryFiles": [
+        "6377.js.map"
+      ],
+      "hash": "093f83b7a22fdb62",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3722,
+      "sizes": {
+        "javascript": 3722
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6444.js"
+      ],
+      "auxiliaryFiles": [
+        "6444.js.map"
+      ],
+      "hash": "aefe5cc44281b902",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4361,
+      "sizes": {
+        "javascript": 4361
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6508.js"
+      ],
+      "auxiliaryFiles": [
+        "6508.js.map"
+      ],
+      "hash": "789d49e98335fb9b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6724.js"
+      ],
+      "auxiliaryFiles": [
+        "6724.js.map"
+      ],
+      "hash": "4f304b6c77125afe",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "689.js"
+      ],
+      "auxiliaryFiles": [
+        "689.js.map"
+      ],
+      "hash": "a5026b5c49d5813a",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6904.js"
+      ],
+      "auxiliaryFiles": [
+        "6904.js.map"
+      ],
+      "hash": "59e7f946cde8d040",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 8421,
+      "sizes": {
+        "javascript": 8421
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "6979.js"
+      ],
+      "auxiliaryFiles": [
+        "6979.js.map"
+      ],
+      "hash": "3e1ee643fb9bdee7",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3667,
+      "sizes": {
+        "javascript": 3667
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "7045.js"
+      ],
+      "auxiliaryFiles": [
+        "7045.js.map"
+      ],
+      "hash": "720922e9e459f298",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 1004,
+      "sizes": {
+        "javascript": 1004
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "7121.js"
+      ],
+      "auxiliaryFiles": [
+        "7121.js.map"
+      ],
+      "hash": "eba2f559e36b555d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "7175.js"
+      ],
+      "auxiliaryFiles": [
+        "7175.js.map"
+      ],
+      "hash": "85ebebd8dc1e4438",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "7182.js"
+      ],
+      "auxiliaryFiles": [
+        "7182.js.map"
+      ],
+      "hash": "8d18e98204b6f9c0",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "438966221fcd9a89",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 6628,
+      "sizes": {
+        "javascript": 6628
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "7546.js"
+      ],
+      "auxiliaryFiles": [
+        "7546.js.map"
+      ],
+      "hash": "f11d057e9a97c779",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3626,
+      "sizes": {
+        "javascript": 3626
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "7742.js"
+      ],
+      "auxiliaryFiles": [
+        "7742.js.map"
+      ],
+      "hash": "7e5dddc9672c420e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3902,
+      "sizes": {
+        "javascript": 3902
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "7912.js"
+      ],
+      "auxiliaryFiles": [
+        "7912.js.map"
+      ],
+      "hash": "d61ac344761500d5",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "8358.js"
+      ],
+      "auxiliaryFiles": [
+        "8358.js.map"
+      ],
+      "hash": "02f3f9348ceacaf0",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 5409,
+      "sizes": {
+        "javascript": 5409
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "8359.js"
+      ],
+      "auxiliaryFiles": [
+        "8359.js.map"
+      ],
+      "hash": "1e8191e83e583b38",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 126,
+      "sizes": {
+        "consume-shared": 126
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "2e4fb59b028ad153",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4023,
+      "sizes": {
+        "javascript": 4023
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "8695.js"
+      ],
+      "auxiliaryFiles": [
+        "8695.js.map"
+      ],
+      "hash": "665f987505bbc8aa",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 254166,
+      "sizes": {
+        "javascript": 254166
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "8702.js"
+      ],
+      "auxiliaryFiles": [
+        "8702.js.map"
+      ],
+      "hash": "e9bbf7ec2c744646",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "903.js"
+      ],
+      "auxiliaryFiles": [
+        "903.js.map"
+      ],
+      "hash": "9be24ab36c04d1cb",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 24274,
+      "sizes": {
+        "javascript": 24274
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "9061.js"
+      ],
+      "auxiliaryFiles": [
+        "9061.js.map"
+      ],
+      "hash": "5811c00cd5b2e3e1",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "9072.js"
+      ],
+      "auxiliaryFiles": [
+        "9072.js.map"
+      ],
+      "hash": "5331ddc9c0da4f30",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "f27bb91b2c3bfe12",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 76880,
+      "sizes": {
+        "javascript": 76880
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "9677.js"
+      ],
+      "auxiliaryFiles": [
+        "9677.js.map"
+      ],
+      "hash": "52123a2fea9f343e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 314795,
+      "sizes": {
+        "javascript": 314795
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "9712.js"
+      ],
+      "auxiliaryFiles": [
+        "9712.js.map"
+      ],
+      "hash": "abc76fb17788981e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 34723,
+      "sizes": {
+        "javascript": 34723
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "9771.js"
+      ],
+      "auxiliaryFiles": [
+        "9771.js.map"
+      ],
+      "hash": "e53914e2702f3eb2",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "79f3827a57d148fa",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3618,
+      "sizes": {
+        "javascript": 3618
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-bed-management-app",
+        "main"
+      ],
+      "files": [
+        "9806.js"
+      ],
+      "auxiliaryFiles": [
+        "9806.js.map"
+      ],
+      "hash": "efaaff007fa56101",
+      "childrenByOrder": {}
+    }
+  ]
+}

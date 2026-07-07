@@ -1,0 +1,586 @@
+{
+  "chunks": [
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 773471,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 773429
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app"
+      ],
+      "files": [
+        "113.js"
+      ],
+      "auxiliaryFiles": [
+        "113.js.map"
+      ],
+      "hash": "13ad266276fadf19",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 6950,
+      "sizes": {
+        "javascript": 6950
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "117.js"
+      ],
+      "auxiliaryFiles": [
+        "117.js.map"
+      ],
+      "hash": "bbb03955a9638273",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 108385,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 108343
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "177.js"
+      ],
+      "auxiliaryFiles": [
+        "177.js.map"
+      ],
+      "hash": "20d9d214e09c80d2",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 6129743,
+      "sizes": {
+        "javascript": 6129743
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "222.js"
+      ],
+      "auxiliaryFiles": [
+        "222.js.map"
+      ],
+      "hash": "ced7d6725016b29d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 315773,
+      "sizes": {
+        "javascript": 315773
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "309.js"
+      ],
+      "auxiliaryFiles": [
+        "309.js.map"
+      ],
+      "hash": "d15ecfeeea10317d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2201,
+      "sizes": {
+        "javascript": 2201
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "339.js"
+      ],
+      "auxiliaryFiles": [
+        "339.js.map"
+      ],
+      "hash": "7142d7f15e38d886",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 50518,
+      "sizes": {
+        "javascript": 50518
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "349.js"
+      ],
+      "auxiliaryFiles": [
+        "349.js.map"
+      ],
+      "hash": "7abb5be17954ba8f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "466.js"
+      ],
+      "auxiliaryFiles": [
+        "466.js.map"
+      ],
+      "hash": "46fb7af715b34606",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 215669,
+      "sizes": {
+        "expose": 42,
+        "javascript": 215333,
+        "runtime": 15032,
+        "share-init": 294
+      },
+      "names": [
+        "@epcare/esm-procedure-orders-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app"
+      ],
+      "files": [
+        "epcare-esm-procedure-orders-app.js"
+      ],
+      "auxiliaryFiles": [
+        "epcare-esm-procedure-orders-app.js.map"
+      ],
+      "hash": "459d9bbc359dcd64",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3332566,
+      "sizes": {
+        "javascript": 3332566
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app"
+      ],
+      "files": [
+        "543.js"
+      ],
+      "auxiliaryFiles": [
+        "543.js.map"
+      ],
+      "hash": "3a681e308690d59d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 24274,
+      "sizes": {
+        "javascript": 24274
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "61.js"
+      ],
+      "auxiliaryFiles": [
+        "61.js.map"
+      ],
+      "hash": "2e2f7d3b2871ba20",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 113077,
+      "sizes": {
+        "javascript": 113077
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "646.js"
+      ],
+      "auxiliaryFiles": [
+        "646.js.map"
+      ],
+      "hash": "f55e41fa7faaefda",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "689.js"
+      ],
+      "auxiliaryFiles": [
+        "689.js.map"
+      ],
+      "hash": "7e3687ead133475d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 168,
+      "sizes": {
+        "consume-shared": 168
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "c3ce9bfcfc3a036f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2201,
+      "sizes": {
+        "javascript": 2201
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "720.js"
+      ],
+      "auxiliaryFiles": [
+        "720.js.map"
+      ],
+      "hash": "985f43b623a3bb9e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "76c3087d748bc622",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 34723,
+      "sizes": {
+        "javascript": 34723
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "771.js"
+      ],
+      "auxiliaryFiles": [
+        "771.js.map"
+      ],
+      "hash": "762c7bcefbfba6f0",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "a1759e4108f83365",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 124816,
+      "sizes": {
+        "javascript": 124816
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "873.js"
+      ],
+      "auxiliaryFiles": [
+        "873.js.map"
+      ],
+      "hash": "b8ac7854074c0278",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 10671938,
+      "sizes": {
+        "consume-shared": 294,
+        "javascript": 10671350,
+        "runtime": 14400,
+        "share-init": 294
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "f32f99ad754f1912",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 82840,
+      "sizes": {
+        "javascript": 82840
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "913.js"
+      ],
+      "auxiliaryFiles": [
+        "913.js.map"
+      ],
+      "hash": "076f4a1db4601ef4",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 124184,
+      "sizes": {
+        "javascript": 124184
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "924.js"
+      ],
+      "auxiliaryFiles": [
+        "924.js.map"
+      ],
+      "hash": "5220c7a109b2ea0e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 25608,
+      "sizes": {
+        "javascript": 25608
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "989.js"
+      ],
+      "auxiliaryFiles": [
+        "989.js.map"
+      ],
+      "hash": "94562978faa799d0",
+      "childrenByOrder": {}
+    }
+  ]
+}

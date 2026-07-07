@@ -1,0 +1,763 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 162622,
+      "sizes": {
+        "javascript": 162622
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "37.js"
+      ],
+      "auxiliaryFiles": [
+        "37.js.map"
+      ],
+      "hash": "3830d1613b924ffd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 14993,
+      "sizes": {
+        "javascript": 14993
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "59.js"
+      ],
+      "auxiliaryFiles": [
+        "59.js.map"
+      ],
+      "hash": "eef554ddca766b43",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39276,
+      "sizes": {
+        "javascript": 39276
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "62.js"
+      ],
+      "auxiliaryFiles": [
+        "62.js.map"
+      ],
+      "hash": "1566a00352baccda",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 91474,
+      "sizes": {
+        "javascript": 91432,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app"
+      ],
+      "files": [
+        "68.js"
+      ],
+      "auxiliaryFiles": [
+        "68.js.map"
+      ],
+      "hash": "8fbf830332e8919f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 421907,
+      "sizes": {
+        "javascript": 418499,
+        "consume-shared": 84,
+        "asset": 3324
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "115.js"
+      ],
+      "auxiliaryFiles": [
+        "115.js.map",
+        "c676126c87228567.png"
+      ],
+      "hash": "7112cdcd8a3c62a6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 1776429,
+      "sizes": {
+        "javascript": 1776429
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "130.js"
+      ],
+      "auxiliaryFiles": [
+        "130.js.map"
+      ],
+      "hash": "6a5ca06e438881fe",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 269576,
+      "sizes": {
+        "consume-shared": 84,
+        "javascript": 249283,
+        "share-init": 210,
+        "runtime": 19999
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "1ba7a6c35b173290",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1312,
+      "sizes": {
+        "javascript": 1312
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "217.js"
+      ],
+      "auxiliaryFiles": [
+        "217.js.map"
+      ],
+      "hash": "d938bf06f667b2f0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "cdf5cf8d2dfad676",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3882,
+      "sizes": {
+        "javascript": 3882
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "26cbfb929aed4e43",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1149,
+      "sizes": {
+        "javascript": 1149
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "330.js"
+      ],
+      "auxiliaryFiles": [
+        "330.js.map"
+      ],
+      "hash": "e5996c4f3f93c6d1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 40439,
+      "sizes": {
+        "javascript": 40439
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "379.js"
+      ],
+      "auxiliaryFiles": [
+        "379.js.map"
+      ],
+      "hash": "858e00956c563922",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 19567,
+      "sizes": {
+        "javascript": 19567
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "537.js"
+      ],
+      "auxiliaryFiles": [
+        "537.js.map"
+      ],
+      "hash": "4f455164034f88d2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4141,
+      "sizes": {
+        "javascript": 4141
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c0857d06220de973",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2148194,
+      "sizes": {
+        "javascript": 2148194
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "577.js"
+      ],
+      "auxiliaryFiles": [
+        "577.js.map"
+      ],
+      "hash": "9e6745c696fb7ea0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 190348,
+      "sizes": {
+        "javascript": 190348
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "591.js"
+      ],
+      "auxiliaryFiles": [
+        "591.js.map"
+      ],
+      "hash": "f37d70caf451a572",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 453346,
+      "sizes": {
+        "javascript": 453346
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "626.js"
+      ],
+      "auxiliaryFiles": [
+        "626.js.map"
+      ],
+      "hash": "8dc747b7c7f5bd7d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1143,
+      "sizes": {
+        "javascript": 1143
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "635.js"
+      ],
+      "auxiliaryFiles": [
+        "635.js.map"
+      ],
+      "hash": "58f7ae2de2e25597",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1183,
+      "sizes": {
+        "javascript": 1183
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "735.js"
+      ],
+      "auxiliaryFiles": [
+        "735.js.map"
+      ],
+      "hash": "e7a72447fb2dc6bb",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3124,
+      "sizes": {
+        "javascript": 3124
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "742.js"
+      ],
+      "auxiliaryFiles": [
+        "742.js.map"
+      ],
+      "hash": "0013a666c353617b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4487,
+      "sizes": {
+        "javascript": 4487
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "930cd2e78f1c169a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "30b9e2759df5055c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3882,
+      "sizes": {
+        "javascript": 3882
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "788.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "522e09dfb2a78b0b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4397,
+      "sizes": {
+        "javascript": 4397
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "807.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "3e02a731e9982bd8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3818,
+      "sizes": {
+        "javascript": 3818
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "833.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2e5f8750cfb69ac5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19862,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 210,
+        "runtime": 19610
+      },
+      "names": [
+        "@ugandaemr/esm-patient-registration-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app"
+      ],
+      "files": [
+        "ugandaemr-esm-patient-registration-app.js"
+      ],
+      "auxiliaryFiles": [
+        "ugandaemr-esm-patient-registration-app.js.map"
+      ],
+      "hash": "e7e63804ea8f7927",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6670,
+      "sizes": {
+        "javascript": 6670
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "879.js"
+      ],
+      "auxiliaryFiles": [
+        "879.js.map"
+      ],
+      "hash": "eef24c4517e23e4d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "983f68202deff28a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 977,
+      "sizes": {
+        "javascript": 977
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "975.js"
+      ],
+      "auxiliaryFiles": [
+        "975.js.map"
+      ],
+      "hash": "3d554573d34c3e4e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 211067,
+      "sizes": {
+        "javascript": 211067
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app",
+        "main"
+      ],
+      "files": [
+        "985.js"
+      ],
+      "auxiliaryFiles": [
+        "985.js.map"
+      ],
+      "hash": "7c57146e35c93676",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 157851,
+      "sizes": {
+        "javascript": 157851
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-registration-app"
+      ],
+      "files": [
+        "993.js"
+      ],
+      "auxiliaryFiles": [
+        "993.js.map"
+      ],
+      "hash": "1dbfcfd80d1020a9",
+      "childrenByOrder": {}
+    }
+  ]
+}

@@ -1,0 +1,893 @@
+{
+  "chunks": [
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 6771,
+      "sizes": {
+        "javascript": 6771
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "117.js"
+      ],
+      "auxiliaryFiles": [
+        "117.js.map"
+      ],
+      "hash": "2be57e90030a955d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 76018,
+      "sizes": {
+        "javascript": 76018
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "118.js"
+      ],
+      "auxiliaryFiles": [
+        "118.js.map"
+      ],
+      "hash": "c042ec9a15d32b91",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 14472,
+      "sizes": {
+        "javascript": 14472
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "197.js"
+      ],
+      "auxiliaryFiles": [
+        "197.js.map"
+      ],
+      "hash": "33f8505ac8758a20",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "237.js"
+      ],
+      "auxiliaryFiles": [
+        "237.js.map"
+      ],
+      "hash": "8c17147151a1ee91",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 16042,
+      "sizes": {
+        "javascript": 16042
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "247.js"
+      ],
+      "auxiliaryFiles": [
+        "247.js.map"
+      ],
+      "hash": "3bb04cf342f58a85",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 260402,
+      "sizes": {
+        "javascript": 260402
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "269.js"
+      ],
+      "auxiliaryFiles": [
+        "269.js.map"
+      ],
+      "hash": "d9e1d33954ef36f6",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 215720,
+      "sizes": {
+        "expose": 42,
+        "javascript": 215342,
+        "runtime": 13977,
+        "share-init": 336
+      },
+      "names": [
+        "@epcare/esm-billing-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app"
+      ],
+      "files": [
+        "epcare-esm-billing-app.js"
+      ],
+      "auxiliaryFiles": [
+        "epcare-esm-billing-app.js.map"
+      ],
+      "hash": "449350943207d1cd",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "23ad4e3284b1b2cb",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4825,
+      "sizes": {
+        "javascript": 4825
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "317.js"
+      ],
+      "auxiliaryFiles": [
+        "317.js.map"
+      ],
+      "hash": "98bfa1250af26339",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 28579,
+      "sizes": {
+        "javascript": 28579
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "362.js"
+      ],
+      "auxiliaryFiles": [
+        "362.js.map"
+      ],
+      "hash": "e95d7b73360b9ca6",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 1810640,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 1810598
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app"
+      ],
+      "files": [
+        "384.js"
+      ],
+      "auxiliaryFiles": [
+        "384.js.map"
+      ],
+      "hash": "b3567f24550754fd",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 15420,
+      "sizes": {
+        "javascript": 15420
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "390.js"
+      ],
+      "auxiliaryFiles": [
+        "390.js.map"
+      ],
+      "hash": "b74c9501540e7b6d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 33809,
+      "sizes": {
+        "javascript": 33809
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "410.js"
+      ],
+      "auxiliaryFiles": [
+        "410.js.map"
+      ],
+      "hash": "32d854f5c783372b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 40691,
+      "sizes": {
+        "javascript": 40691
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "414.js"
+      ],
+      "auxiliaryFiles": [
+        "414.js.map"
+      ],
+      "hash": "4f6515ef29145c18",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2201,
+      "sizes": {
+        "javascript": 2201
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "489.js"
+      ],
+      "auxiliaryFiles": [
+        "489.js.map"
+      ],
+      "hash": "72f1d13a30e263b3",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4825,
+      "sizes": {
+        "javascript": 4825
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "508.js"
+      ],
+      "auxiliaryFiles": [
+        "508.js.map"
+      ],
+      "hash": "6b277db30595097c",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 540,
+      "sizes": {
+        "javascript": 540
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "517.js"
+      ],
+      "auxiliaryFiles": [
+        "517.js.map"
+      ],
+      "hash": "55191ea6b2857a5f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 15878,
+      "sizes": {
+        "javascript": 15878
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "564.js"
+      ],
+      "auxiliaryFiles": [
+        "564.js.map"
+      ],
+      "hash": "d7e3081e9bd84047",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "a4819d4ae947988f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 14472,
+      "sizes": {
+        "javascript": 14472
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "578.js"
+      ],
+      "auxiliaryFiles": [
+        "578.js.map"
+      ],
+      "hash": "f3f9d1f2ceb2b475",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 51102,
+      "sizes": {
+        "javascript": 51102
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "594.js"
+      ],
+      "auxiliaryFiles": [
+        "594.js.map"
+      ],
+      "hash": "e52b56d1b20ea5b3",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3342495,
+      "sizes": {
+        "javascript": 3342495
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "615.js"
+      ],
+      "auxiliaryFiles": [
+        "615.js.map"
+      ],
+      "hash": "4973ac066b69ac56",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 48317,
+      "sizes": {
+        "javascript": 48317
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "668.js"
+      ],
+      "auxiliaryFiles": [
+        "668.js.map"
+      ],
+      "hash": "c5530dc1787f5217",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3539471,
+      "sizes": {
+        "javascript": 3539471
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "775.js"
+      ],
+      "auxiliaryFiles": [
+        "775.js.map"
+      ],
+      "hash": "803131c179d858ab",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 82097,
+      "sizes": {
+        "javascript": 82097
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "6112bf6a5765ecce",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4825,
+      "sizes": {
+        "javascript": 4825
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "806.js"
+      ],
+      "auxiliaryFiles": [
+        "806.js.map"
+      ],
+      "hash": "cbab2bf69091d8f5",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 6303847,
+      "sizes": {
+        "consume-shared": 168,
+        "javascript": 6303343,
+        "runtime": 13321,
+        "share-init": 336
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "ac93c6d02cd1147f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 540,
+      "sizes": {
+        "javascript": 540
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "898.js"
+      ],
+      "auxiliaryFiles": [
+        "898.js.map"
+      ],
+      "hash": "7a8faf59debabea7",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 80697,
+      "sizes": {
+        "javascript": 80697
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "899.js"
+      ],
+      "auxiliaryFiles": [
+        "899.js.map"
+      ],
+      "hash": "c9a5cd72abff46c4",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4825,
+      "sizes": {
+        "javascript": 4825
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "912.js"
+      ],
+      "auxiliaryFiles": [
+        "912.js.map"
+      ],
+      "hash": "bd7123c845b820da",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4825,
+      "sizes": {
+        "javascript": 4825
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "940.js"
+      ],
+      "auxiliaryFiles": [
+        "940.js.map"
+      ],
+      "hash": "1ce6b836fb7ea534",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 82840,
+      "sizes": {
+        "javascript": 82840
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "976.js"
+      ],
+      "auxiliaryFiles": [
+        "976.js.map"
+      ],
+      "hash": "81600de4e3f85794",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "98.js"
+      ],
+      "auxiliaryFiles": [
+        "98.js.map"
+      ],
+      "hash": "29290dc3dccd40f0",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 168,
+      "sizes": {
+        "consume-shared": 168
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "377533cefb49cae2",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 872562,
+      "sizes": {
+        "javascript": 872562
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app"
+      ],
+      "files": [
+        "987.js"
+      ],
+      "auxiliaryFiles": [
+        "987.js.map"
+      ],
+      "hash": "84045370e9f04b6f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 163792,
+      "sizes": {
+        "javascript": 163792
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "997.js"
+      ],
+      "auxiliaryFiles": [
+        "997.js.map"
+      ],
+      "hash": "d8514352ddcfa679",
+      "childrenByOrder": {}
+    }
+  ]
+}

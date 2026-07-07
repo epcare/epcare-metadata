@@ -1,0 +1,513 @@
+{
+  "chunks": [
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "116.js"
+      ],
+      "auxiliaryFiles": [
+        "116.js.map"
+      ],
+      "hash": "14681710ae8869fe",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "117.js"
+      ],
+      "auxiliaryFiles": [
+        "117.js.map"
+      ],
+      "hash": "f93dea8f1a925039",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3535128,
+      "sizes": {
+        "javascript": 3535128
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "120.js"
+      ],
+      "auxiliaryFiles": [
+        "120.js.map"
+      ],
+      "hash": "c834443dea432e3b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 433824,
+      "sizes": {
+        "javascript": 433824
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "165.js"
+      ],
+      "auxiliaryFiles": [
+        "165.js.map"
+      ],
+      "hash": "39a5c11bdea8f643",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7918,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 7876
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-help-menu-app"
+      ],
+      "files": [
+        "20.js"
+      ],
+      "auxiliaryFiles": [
+        "20.js.map"
+      ],
+      "hash": "65012277400853a3",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "ef9c65a319bab1f1",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2111598,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2111556
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "271.js"
+      ],
+      "auxiliaryFiles": [
+        "271.js.map"
+      ],
+      "hash": "f498851b8c453a4b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "938454e6de233ebe",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 125593,
+      "sizes": {
+        "javascript": 125593
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "39.js"
+      ],
+      "auxiliaryFiles": [
+        "39.js.map"
+      ],
+      "hash": "f19adeffdd1a5a99",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 20554,
+      "sizes": {
+        "javascript": 20554
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "408.js"
+      ],
+      "auxiliaryFiles": [
+        "408.js.map"
+      ],
+      "hash": "b52e8e0c0ca36984",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 53741,
+      "sizes": {
+        "javascript": 53741
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "438.js"
+      ],
+      "auxiliaryFiles": [
+        "438.js.map"
+      ],
+      "hash": "0bed3b3074ddba99",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 215625,
+      "sizes": {
+        "expose": 42,
+        "javascript": 215331,
+        "runtime": 12979,
+        "share-init": 252
+      },
+      "names": [
+        "@openmrs/esm-help-menu-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-help-menu-app"
+      ],
+      "files": [
+        "openmrs-esm-help-menu-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-help-menu-app.js.map"
+      ],
+      "hash": "fd4204291e88323a",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "46341ba266b679fb",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 163792,
+      "sizes": {
+        "javascript": 163792
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "613.js"
+      ],
+      "auxiliaryFiles": [
+        "613.js.map"
+      ],
+      "hash": "3b7815033438e256",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2320526,
+      "sizes": {
+        "javascript": 2320526
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "614.js"
+      ],
+      "auxiliaryFiles": [
+        "614.js.map"
+      ],
+      "hash": "d18394df69a6ff31",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 29620,
+      "sizes": {
+        "javascript": 29620
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "651.js"
+      ],
+      "auxiliaryFiles": [
+        "651.js.map"
+      ],
+      "hash": "764db712f9c30a1f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "819.js"
+      ],
+      "auxiliaryFiles": [
+        "819.js.map"
+      ],
+      "hash": "d1be3b6dd308f8f1",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 10645,
+      "sizes": {
+        "javascript": 10645
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "878.js"
+      ],
+      "auxiliaryFiles": [
+        "878.js.map"
+      ],
+      "hash": "9b7c0bb157b1f865",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 378506,
+      "sizes": {
+        "consume-shared": 168,
+        "javascript": 378086,
+        "runtime": 12392,
+        "share-init": 252
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "6814b3b1a634247e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 134367,
+      "sizes": {
+        "javascript": 134367
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-help-menu-app",
+        "main"
+      ],
+      "files": [
+        "981.js"
+      ],
+      "auxiliaryFiles": [
+        "981.js.map"
+      ],
+      "hash": "397caa008c21b83d",
+      "childrenByOrder": {}
+    }
+  ]
+}

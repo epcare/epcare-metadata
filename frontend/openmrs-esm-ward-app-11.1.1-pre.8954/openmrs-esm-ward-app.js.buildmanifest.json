@@ -1,0 +1,2283 @@
+{
+  "chunks": [
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 13255,
+      "sizes": {
+        "javascript": 13255
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "1070.js"
+      ],
+      "auxiliaryFiles": [
+        "1070.js.map"
+      ],
+      "hash": "9f00f345f8e8ede1",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 10296,
+      "sizes": {
+        "javascript": 10296
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "1480.js"
+      ],
+      "auxiliaryFiles": [
+        "1480.js.map"
+      ],
+      "hash": "85909547b3cf7da4",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "1646.js"
+      ],
+      "auxiliaryFiles": [
+        "1646.js.map"
+      ],
+      "hash": "e3276ef9be75b25a",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 567,
+      "sizes": {
+        "javascript": 567
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "1664.js"
+      ],
+      "auxiliaryFiles": [
+        "1664.js.map"
+      ],
+      "hash": "9eda4eaee1c4da3a",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 260037,
+      "sizes": {
+        "javascript": 260037
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "1780.js"
+      ],
+      "auxiliaryFiles": [
+        "1780.js.map"
+      ],
+      "hash": "48f1428ee56a73f3",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 29620,
+      "sizes": {
+        "javascript": 29620
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "1789.js"
+      ],
+      "auxiliaryFiles": [
+        "1789.js.map"
+      ],
+      "hash": "2bf6e2a775d05b44",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "1869.js"
+      ],
+      "auxiliaryFiles": [
+        "1869.js.map"
+      ],
+      "hash": "66e3a347a8222f4a",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 8366,
+      "sizes": {
+        "javascript": 8366
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "1877.js"
+      ],
+      "auxiliaryFiles": [
+        "1877.js.map"
+      ],
+      "hash": "9aea82a03cf60e18",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 233994,
+      "sizes": {
+        "consume-shared": 126,
+        "javascript": 233574,
+        "runtime": 14461,
+        "share-init": 294
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "741b714ad47671fa",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 9434,
+      "sizes": {
+        "javascript": 9434
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "1978.js"
+      ],
+      "auxiliaryFiles": [
+        "1978.js.map"
+      ],
+      "hash": "eb3dd448a69309cb",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 34810,
+      "sizes": {
+        "javascript": 34810
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "2101.js"
+      ],
+      "auxiliaryFiles": [
+        "2101.js.map"
+      ],
+      "hash": "cb85f92818b44b8a",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 33925,
+      "sizes": {
+        "javascript": 33925
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "2162.js"
+      ],
+      "auxiliaryFiles": [
+        "2162.js.map"
+      ],
+      "hash": "7d0732230b33fd12",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "2317.js"
+      ],
+      "auxiliaryFiles": [
+        "2317.js.map"
+      ],
+      "hash": "c27d0d4632e8ebfc",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "2416.js"
+      ],
+      "auxiliaryFiles": [
+        "2416.js.map"
+      ],
+      "hash": "66ddf9eb35b71937",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 19332,
+      "sizes": {
+        "javascript": 19332
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "2495.js"
+      ],
+      "auxiliaryFiles": [
+        "2495.js.map"
+      ],
+      "hash": "2a1dddf2dfad429e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "282.js"
+      ],
+      "auxiliaryFiles": [
+        "282.js.map"
+      ],
+      "hash": "7f1b5af2c0207cf1",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "2881.js"
+      ],
+      "auxiliaryFiles": [
+        "2881.js.map"
+      ],
+      "hash": "2d94e93a60f23d7b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 69141,
+      "sizes": {
+        "javascript": 69141
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "2898.js"
+      ],
+      "auxiliaryFiles": [
+        "2898.js.map"
+      ],
+      "hash": "cff8016f5381dc2a",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "3378.js"
+      ],
+      "auxiliaryFiles": [
+        "3378.js.map"
+      ],
+      "hash": "be4f0496b0cbd647",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 18304,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 18262
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app"
+      ],
+      "files": [
+        "3560.js"
+      ],
+      "auxiliaryFiles": [
+        "3560.js.map"
+      ],
+      "hash": "28dfb02764bf8f10",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2201,
+      "sizes": {
+        "javascript": 2201
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "3720.js"
+      ],
+      "auxiliaryFiles": [
+        "3720.js.map"
+      ],
+      "hash": "6ee3414f6384e1d6",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 36176,
+      "sizes": {
+        "javascript": 36176
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "3852.js"
+      ],
+      "auxiliaryFiles": [
+        "3852.js.map"
+      ],
+      "hash": "483f5d65c305c6ef",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 109878,
+      "sizes": {
+        "javascript": 109878
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "388.js"
+      ],
+      "auxiliaryFiles": [
+        "388.js.map"
+      ],
+      "hash": "52cfe6ef6e40b20b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7797,
+      "sizes": {
+        "javascript": 7797
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "3963.js"
+      ],
+      "auxiliaryFiles": [
+        "3963.js.map"
+      ],
+      "hash": "eefd3b7b18d453b9",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 25608,
+      "sizes": {
+        "javascript": 25608
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "3989.js"
+      ],
+      "auxiliaryFiles": [
+        "3989.js.map"
+      ],
+      "hash": "10a755f2270890e1",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3675843,
+      "sizes": {
+        "javascript": 3675843
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "4064.js"
+      ],
+      "auxiliaryFiles": [
+        "4064.js.map"
+      ],
+      "hash": "cc09c5c68525ce11",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "4106.js"
+      ],
+      "auxiliaryFiles": [
+        "4106.js.map"
+      ],
+      "hash": "a9c8d8b7e96c7e05",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 8006,
+      "sizes": {
+        "javascript": 8006
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "4111.js"
+      ],
+      "auxiliaryFiles": [
+        "4111.js.map"
+      ],
+      "hash": "6041ecb1d601c38f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "434.js"
+      ],
+      "auxiliaryFiles": [
+        "434.js.map"
+      ],
+      "hash": "383fb2229ee40931",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "4348.js"
+      ],
+      "auxiliaryFiles": [
+        "4348.js.map"
+      ],
+      "hash": "55d968cd089c16df",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "4383.js"
+      ],
+      "auxiliaryFiles": [
+        "4383.js.map"
+      ],
+      "hash": "ffb73ba93cd2669b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "7836a9f837e21b32",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "4658.js"
+      ],
+      "auxiliaryFiles": [
+        "4658.js.map"
+      ],
+      "hash": "403c3ae913692def",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "466.js"
+      ],
+      "auxiliaryFiles": [
+        "466.js.map"
+      ],
+      "hash": "8da9e43bfda0a03e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "4928.js"
+      ],
+      "auxiliaryFiles": [
+        "4928.js.map"
+      ],
+      "hash": "1f21d3a786984848",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 592,
+      "sizes": {
+        "javascript": 592
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "502.js"
+      ],
+      "auxiliaryFiles": [
+        "502.js.map"
+      ],
+      "hash": "8ec41b6a830cec85",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "5117.js"
+      ],
+      "auxiliaryFiles": [
+        "5117.js.map"
+      ],
+      "hash": "ea1a85351098b567",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "5132.js"
+      ],
+      "auxiliaryFiles": [
+        "5132.js.map"
+      ],
+      "hash": "5410cf90841caa7d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 8524,
+      "sizes": {
+        "javascript": 8524
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "5145.js"
+      ],
+      "auxiliaryFiles": [
+        "5145.js.map"
+      ],
+      "hash": "be41150e90349ae9",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "5503.js"
+      ],
+      "auxiliaryFiles": [
+        "5503.js.map"
+      ],
+      "hash": "db301d87db91e8ed",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 81831,
+      "sizes": {
+        "javascript": 81831
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "5509.js"
+      ],
+      "auxiliaryFiles": [
+        "5509.js.map"
+      ],
+      "hash": "a8a77b4c5983eee6",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "556.js"
+      ],
+      "auxiliaryFiles": [
+        "556.js.map"
+      ],
+      "hash": "8b19e1bb5f172b62",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 133790,
+      "sizes": {
+        "javascript": 133790
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "5576.js"
+      ],
+      "auxiliaryFiles": [
+        "5576.js.map"
+      ],
+      "hash": "bacf19ce91fba6cc",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 6352,
+      "sizes": {
+        "javascript": 6352
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "5644.js"
+      ],
+      "auxiliaryFiles": [
+        "5644.js.map"
+      ],
+      "hash": "838501f5ca67ac86",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 63709,
+      "sizes": {
+        "javascript": 63709
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "5773.js"
+      ],
+      "auxiliaryFiles": [
+        "5773.js.map"
+      ],
+      "hash": "adaa9d3230bf5b6e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 1473,
+      "sizes": {
+        "javascript": 1473
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "582.js"
+      ],
+      "auxiliaryFiles": [
+        "582.js.map"
+      ],
+      "hash": "2c46efc97f455dc8",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "5940.js"
+      ],
+      "auxiliaryFiles": [
+        "5940.js.map"
+      ],
+      "hash": "b6d7cb290be85c10",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7577,
+      "sizes": {
+        "javascript": 7577
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6047.js"
+      ],
+      "auxiliaryFiles": [
+        "6047.js.map"
+      ],
+      "hash": "e4703cad41be3b40",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "7e45e517336a89bb",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 41479,
+      "sizes": {
+        "javascript": 41479
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6174.js"
+      ],
+      "auxiliaryFiles": [
+        "6174.js.map"
+      ],
+      "hash": "d94c6c1d8308f987",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 1035,
+      "sizes": {
+        "javascript": 1035
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6270.js"
+      ],
+      "auxiliaryFiles": [
+        "6270.js.map"
+      ],
+      "hash": "ee8791fa464106ad",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6371.js"
+      ],
+      "auxiliaryFiles": [
+        "6371.js.map"
+      ],
+      "hash": "1dae27bfc5247d28",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6377.js"
+      ],
+      "auxiliaryFiles": [
+        "6377.js.map"
+      ],
+      "hash": "20e803ed1596d16d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 61504,
+      "sizes": {
+        "javascript": 61504
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6418.js"
+      ],
+      "auxiliaryFiles": [
+        "6418.js.map"
+      ],
+      "hash": "336a6593c43914c2",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6444.js"
+      ],
+      "auxiliaryFiles": [
+        "6444.js.map"
+      ],
+      "hash": "0110e01a56a2f9d6",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7778,
+      "sizes": {
+        "javascript": 7778
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6508.js"
+      ],
+      "auxiliaryFiles": [
+        "6508.js.map"
+      ],
+      "hash": "d61e032286736f2f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2199138,
+      "sizes": {
+        "javascript": 2199138
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6673.js"
+      ],
+      "auxiliaryFiles": [
+        "6673.js.map"
+      ],
+      "hash": "3d3078d3757cc320",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 16025,
+      "sizes": {
+        "javascript": 16025
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6703.js"
+      ],
+      "auxiliaryFiles": [
+        "6703.js.map"
+      ],
+      "hash": "82b16890187e127d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6724.js"
+      ],
+      "auxiliaryFiles": [
+        "6724.js.map"
+      ],
+      "hash": "8a0a33df0ab23bca",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 864,
+      "sizes": {
+        "javascript": 864
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6802.js"
+      ],
+      "auxiliaryFiles": [
+        "6802.js.map"
+      ],
+      "hash": "924e6f31a689abaf",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "689.js"
+      ],
+      "auxiliaryFiles": [
+        "689.js.map"
+      ],
+      "hash": "207c6393b17b21dc",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "6904.js"
+      ],
+      "auxiliaryFiles": [
+        "6904.js.map"
+      ],
+      "hash": "e3ce4fa0bb193f2e",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "7045.js"
+      ],
+      "auxiliaryFiles": [
+        "7045.js.map"
+      ],
+      "hash": "2fdbfa69b71aae4c",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "7175.js"
+      ],
+      "auxiliaryFiles": [
+        "7175.js.map"
+      ],
+      "hash": "e91eff4f8f84d96d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "7182.js"
+      ],
+      "auxiliaryFiles": [
+        "7182.js.map"
+      ],
+      "hash": "431d0a53f189cad3",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "a2e0b0d8d2265e21",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2421,
+      "sizes": {
+        "javascript": 2421
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "7249.js"
+      ],
+      "auxiliaryFiles": [
+        "7249.js.map"
+      ],
+      "hash": "8f3edda2c4b762bb",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 264075,
+      "sizes": {
+        "javascript": 264075
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "7330.js"
+      ],
+      "auxiliaryFiles": [
+        "7330.js.map"
+      ],
+      "hash": "dad38209807e974c",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 215690,
+      "sizes": {
+        "expose": 42,
+        "javascript": 215354,
+        "runtime": 15014,
+        "share-init": 294
+      },
+      "names": [
+        "@openmrs/esm-ward-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app"
+      ],
+      "files": [
+        "openmrs-esm-ward-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-ward-app.js.map"
+      ],
+      "hash": "cb4972b1228cdba0",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 6349,
+      "sizes": {
+        "javascript": 6349
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "7742.js"
+      ],
+      "auxiliaryFiles": [
+        "7742.js.map"
+      ],
+      "hash": "b4cdbbdea3a76ba1",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "b9a9442390a554e2",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7873,
+      "sizes": {
+        "javascript": 7873
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "7912.js"
+      ],
+      "auxiliaryFiles": [
+        "7912.js.map"
+      ],
+      "hash": "97169945c69c2594",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 88759,
+      "sizes": {
+        "javascript": 88759
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "833.js"
+      ],
+      "auxiliaryFiles": [
+        "833.js.map"
+      ],
+      "hash": "92c68b45a26587de",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 787,
+      "sizes": {
+        "javascript": 787
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "8340.js"
+      ],
+      "auxiliaryFiles": [
+        "8340.js.map"
+      ],
+      "hash": "098d1d8f2ea51d9d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "8358.js"
+      ],
+      "auxiliaryFiles": [
+        "8358.js.map"
+      ],
+      "hash": "0e4396d581ebed95",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 11419,
+      "sizes": {
+        "javascript": 11419
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "8359.js"
+      ],
+      "auxiliaryFiles": [
+        "8359.js.map"
+      ],
+      "hash": "8990db786db9efa6",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 293725,
+      "sizes": {
+        "javascript": 293725
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "8417.js"
+      ],
+      "auxiliaryFiles": [
+        "8417.js.map"
+      ],
+      "hash": "5b00c9304803be60",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 86601,
+      "sizes": {
+        "javascript": 86601
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "8424.js"
+      ],
+      "auxiliaryFiles": [
+        "8424.js.map"
+      ],
+      "hash": "58631104f0a3bbb7",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 690,
+      "sizes": {
+        "javascript": 690
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "8493.js"
+      ],
+      "auxiliaryFiles": [
+        "8493.js.map"
+      ],
+      "hash": "005dcedbbf681233",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 53696,
+      "sizes": {
+        "javascript": 53696
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "85.js"
+      ],
+      "auxiliaryFiles": [
+        "85.js.map"
+      ],
+      "hash": "c5e781db8de89923",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7965,
+      "sizes": {
+        "javascript": 7965
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "8695.js"
+      ],
+      "auxiliaryFiles": [
+        "8695.js.map"
+      ],
+      "hash": "b5cc5f4a059497af",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137265,
+      "sizes": {
+        "javascript": 137265
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "9011.js"
+      ],
+      "auxiliaryFiles": [
+        "9011.js.map"
+      ],
+      "hash": "ecb75ce38d30c945",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "903.js"
+      ],
+      "auxiliaryFiles": [
+        "903.js.map"
+      ],
+      "hash": "1e829f11290ae45b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 26475,
+      "sizes": {
+        "javascript": 26475
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "9061.js"
+      ],
+      "auxiliaryFiles": [
+        "9061.js.map"
+      ],
+      "hash": "00c50424e73caa48",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "9072.js"
+      ],
+      "auxiliaryFiles": [
+        "9072.js.map"
+      ],
+      "hash": "dc3fa0f0e0fd2fbe",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 47758,
+      "sizes": {
+        "javascript": 47758
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "9080.js"
+      ],
+      "auxiliaryFiles": [
+        "9080.js.map"
+      ],
+      "hash": "b075d80a7f0d214b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "0e7352bb93ff08b8",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 963,
+      "sizes": {
+        "javascript": 963
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "9427.js"
+      ],
+      "auxiliaryFiles": [
+        "9427.js.map"
+      ],
+      "hash": "0459f9fdee4d72e2",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 314795,
+      "sizes": {
+        "javascript": 314795
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "9712.js"
+      ],
+      "auxiliaryFiles": [
+        "9712.js.map"
+      ],
+      "hash": "34b8dc83c7aa55a3",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 34723,
+      "sizes": {
+        "javascript": 34723
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "9771.js"
+      ],
+      "auxiliaryFiles": [
+        "9771.js.map"
+      ],
+      "hash": "0086edd347b818eb",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "77d79d78df23bb41",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7300,
+      "sizes": {
+        "javascript": 7300
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "9806.js"
+      ],
+      "auxiliaryFiles": [
+        "9806.js.map"
+      ],
+      "hash": "94746a0850f95936",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 49515,
+      "sizes": {
+        "javascript": 49515
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-ward-app",
+        "main"
+      ],
+      "files": [
+        "9983.js"
+      ],
+      "auxiliaryFiles": [
+        "9983.js.map"
+      ],
+      "hash": "ec017500a0b66a4b",
+      "childrenByOrder": {}
+    }
+  ]
+}

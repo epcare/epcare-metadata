@@ -1,0 +1,729 @@
+{
+  "chunks": [
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "fa90eaae271ae4ff",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 527,
+      "sizes": {
+        "javascript": 527
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "117.js"
+      ],
+      "auxiliaryFiles": [
+        "117.js.map"
+      ],
+      "hash": "076939a53bd2f20f",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 315773,
+      "sizes": {
+        "javascript": 315773
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "309.js"
+      ],
+      "auxiliaryFiles": [
+        "309.js.map"
+      ],
+      "hash": "b700bd842a1c97c3",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2112,
+      "sizes": {
+        "javascript": 2112
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "317.js"
+      ],
+      "auxiliaryFiles": [
+        "317.js.map"
+      ],
+      "hash": "bb244ccb4b983417",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2201,
+      "sizes": {
+        "javascript": 2201
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "339.js"
+      ],
+      "auxiliaryFiles": [
+        "339.js.map"
+      ],
+      "hash": "3228319e4dede8d4",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 50518,
+      "sizes": {
+        "javascript": 50518
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "349.js"
+      ],
+      "auxiliaryFiles": [
+        "349.js.map"
+      ],
+      "hash": "4513f91931fc1127",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "466.js"
+      ],
+      "auxiliaryFiles": [
+        "466.js.map"
+      ],
+      "hash": "cb9dedf45990451d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 1997,
+      "sizes": {
+        "javascript": 1997
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "508.js"
+      ],
+      "auxiliaryFiles": [
+        "508.js.map"
+      ],
+      "hash": "a9640f4dc87d06d5",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 100723,
+      "sizes": {
+        "javascript": 100723
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "532.js"
+      ],
+      "auxiliaryFiles": [
+        "532.js.map"
+      ],
+      "hash": "c6dc66940d7ba045",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 24274,
+      "sizes": {
+        "javascript": 24274
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "61.js"
+      ],
+      "auxiliaryFiles": [
+        "61.js.map"
+      ],
+      "hash": "5e2ed88da8488683",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 5877329,
+      "sizes": {
+        "javascript": 5877329
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "633.js"
+      ],
+      "auxiliaryFiles": [
+        "633.js.map"
+      ],
+      "hash": "34ea3dd64f5518b6",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 29715,
+      "sizes": {
+        "javascript": 29715
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "658.js"
+      ],
+      "auxiliaryFiles": [
+        "658.js.map"
+      ],
+      "hash": "8536a1b820907146",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 279924,
+      "sizes": {
+        "javascript": 279924
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "669.js"
+      ],
+      "auxiliaryFiles": [
+        "669.js.map"
+      ],
+      "hash": "b27890bd795cc0ec",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "689.js"
+      ],
+      "auxiliaryFiles": [
+        "689.js.map"
+      ],
+      "hash": "b68c0841e0641def",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2201,
+      "sizes": {
+        "javascript": 2201
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "720.js"
+      ],
+      "auxiliaryFiles": [
+        "720.js.map"
+      ],
+      "hash": "15aa59a17f932ae9",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 215674,
+      "sizes": {
+        "expose": 42,
+        "javascript": 215338,
+        "runtime": 14837,
+        "share-init": 294
+      },
+      "names": [
+        "@epcare/esm-medical-supply-orders-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app"
+      ],
+      "files": [
+        "epcare-esm-medical-supply-orders-app.js"
+      ],
+      "auxiliaryFiles": [
+        "epcare-esm-medical-supply-orders-app.js.map"
+      ],
+      "hash": "38abd3c2477472b4",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "4917d645a8276002",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 34723,
+      "sizes": {
+        "javascript": 34723
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "771.js"
+      ],
+      "auxiliaryFiles": [
+        "771.js.map"
+      ],
+      "hash": "1d007690e061e3be",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "89fadd584702aa9b",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2494,
+      "sizes": {
+        "javascript": 2494
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "806.js"
+      ],
+      "auxiliaryFiles": [
+        "806.js.map"
+      ],
+      "hash": "ab55914cffdef430",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 378801,
+      "sizes": {
+        "javascript": 378801
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "817.js"
+      ],
+      "auxiliaryFiles": [
+        "817.js.map"
+      ],
+      "hash": "f3ebc6922f48b6e5",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1900277,
+      "sizes": {
+        "javascript": 1900277
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app"
+      ],
+      "files": [
+        "827.js"
+      ],
+      "auxiliaryFiles": [
+        "827.js.map"
+      ],
+      "hash": "f17721d89168e3dd",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 126,
+      "sizes": {
+        "consume-shared": 126
+      },
+      "names": [],
+      "idHints": [
+        ""
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "004cd312798c4489",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 100971,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 100929
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app"
+      ],
+      "files": [
+        "882.js"
+      ],
+      "auxiliaryFiles": [
+        "882.js.map"
+      ],
+      "hash": "76604c2617fe28af",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 2733330,
+      "sizes": {
+        "consume-shared": 252,
+        "javascript": 2732784,
+        "runtime": 14210,
+        "share-init": 294
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "b2d4a4abe0f2d473",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 1935,
+      "sizes": {
+        "javascript": 1935
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "912.js"
+      ],
+      "auxiliaryFiles": [
+        "912.js.map"
+      ],
+      "hash": "84ccf533dfebc667",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 82840,
+      "sizes": {
+        "javascript": 82840
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "913.js"
+      ],
+      "auxiliaryFiles": [
+        "913.js.map"
+      ],
+      "hash": "4506a55593b06561",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 3741,
+      "sizes": {
+        "javascript": 3741
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "940.js"
+      ],
+      "auxiliaryFiles": [
+        "940.js.map"
+      ],
+      "hash": "2e51228e16f7da8d",
+      "childrenByOrder": {}
+    },
+    {
+      "type": "chunk",
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 25608,
+      "sizes": {
+        "javascript": 25608
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-medical-supply-orders-app",
+        "main"
+      ],
+      "files": [
+        "989.js"
+      ],
+      "auxiliaryFiles": [
+        "989.js.map"
+      ],
+      "hash": "b7ec2b8ac85c3012",
+      "childrenByOrder": {}
+    }
+  ]
+}

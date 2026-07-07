@@ -1,0 +1,475 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10122,
+      "sizes": {
+        "javascript": 10122
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "3.js"
+      ],
+      "auxiliaryFiles": [
+        "3.js.map"
+      ],
+      "hash": "1cb1ce71131c1f73",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 466855,
+      "sizes": {
+        "javascript": 466855
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "26.js"
+      ],
+      "auxiliaryFiles": [
+        "26.js.map"
+      ],
+      "hash": "a73d1c2e5c15801b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 105102,
+      "sizes": {
+        "javascript": 105102
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "43.js"
+      ],
+      "auxiliaryFiles": [
+        "43.js.map"
+      ],
+      "hash": "419f66e95681c60a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39971,
+      "sizes": {
+        "javascript": 39971
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "52.js"
+      ],
+      "auxiliaryFiles": [
+        "52.js.map"
+      ],
+      "hash": "0fc7c8e004dbf6ab",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 34,
+      "sizes": {
+        "javascript": 34
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "55.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0a8cddea29e91448",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "644f8ec4fd040ad5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 32,
+      "sizes": {
+        "javascript": 32
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "99.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "167e378732587e9a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1888018,
+      "sizes": {
+        "javascript": 1888018
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app"
+      ],
+      "files": [
+        "167.js"
+      ],
+      "auxiliaryFiles": [
+        "167.js.map"
+      ],
+      "hash": "fc632f429d445446",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 14221,
+      "sizes": {
+        "javascript": 14221
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "246.js"
+      ],
+      "auxiliaryFiles": [
+        "246.js.map"
+      ],
+      "hash": "c5739691a66cd864",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1629,
+      "sizes": {
+        "javascript": 1629
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "300.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "41d2c1de04b01bf2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 8287747,
+      "sizes": {
+        "javascript": 8287747
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "396.js"
+      ],
+      "auxiliaryFiles": [
+        "396.js.map"
+      ],
+      "hash": "8e964e56e04230ec",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 210,
+      "sizes": {
+        "consume-shared": 210
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "629860313d87e56d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 64259,
+      "sizes": {
+        "javascript": 64259
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "514.js"
+      ],
+      "auxiliaryFiles": [
+        "514.js.map"
+      ],
+      "hash": "9a0494810546b7f4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 44800,
+      "sizes": {
+        "javascript": 44800
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "671.js"
+      ],
+      "auxiliaryFiles": [
+        "671.js.map"
+      ],
+      "hash": "c6ae3b6dcdc34f82",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3608335,
+      "sizes": {
+        "javascript": 3608293,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app"
+      ],
+      "files": [
+        "773.js"
+      ],
+      "auxiliaryFiles": [
+        "773.js.map"
+      ],
+      "hash": "453c38f20b8180c1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 169932,
+      "sizes": {
+        "javascript": 169932
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "781.js"
+      ],
+      "auxiliaryFiles": [
+        "781.js.map"
+      ],
+      "hash": "5f0851a5ec42d19f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 14044068,
+      "sizes": {
+        "consume-shared": 294,
+        "javascript": 14022432,
+        "share-init": 252,
+        "runtime": 21090
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "efa36f41ede437f2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 238374,
+      "sizes": {
+        "javascript": 238374
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app",
+        "main"
+      ],
+      "files": [
+        "934.js"
+      ],
+      "auxiliaryFiles": [
+        "934.js.map"
+      ],
+      "hash": "985ba8f6a8eeb197",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 20852,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 252,
+        "runtime": 20558
+      },
+      "names": [
+        "@epcare/esm-laboratory-management-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@epcare/esm-laboratory-management-app"
+      ],
+      "files": [
+        "esm-laboratory-management-app.js"
+      ],
+      "auxiliaryFiles": [
+        "esm-laboratory-management-app.js.map"
+      ],
+      "hash": "5dea5971e369f02c",
+      "childrenByOrder": {}
+    }
+  ]
+}

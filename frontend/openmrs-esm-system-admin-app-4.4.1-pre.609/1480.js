@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_system_admin_app=globalThis.webpackChunk_openmrs_esm_system_admin_app||[]).push([["1480"],{795(s){s.exports=JSON.parse('{"config":"კონფიგურაციები","legacyAdmin":"მოძველებული ადმინისტრირება","systemAdmin":"სისტემის ადმინისტრაცია"}')}}]);
