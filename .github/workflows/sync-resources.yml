@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Destination Repository
         uses: actions/checkout@v4
         with:
-          repository: METS-Programme/ugandaemr-metadata
+          repository: epcare/epcare-metadata
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
