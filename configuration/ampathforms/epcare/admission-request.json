@@ -1,6 +1,6 @@
 {
   "name": "Ward Admission Request",
-  "version": "5.0.8",
+  "version": "5.0.8.1",
   "description": "Create an admission request to an inpatient ward",
   "encounterType": "e22e39fd-7db2-45e7-80f1-60fa0d5a4378",
   "encounter": "Admission",
@@ -200,7 +200,7 @@
                   "questionOptions": {
                     "rendering": "ui-select-extended",
                     "required": true,
-                    "concept": "7dbfe324-9855-4f00-aa38-657dcaae737b",
+                    "concept": "CIEL:169403",
                     "conceptMappings": [],
                     "answers": [],
                     "datasource": {
